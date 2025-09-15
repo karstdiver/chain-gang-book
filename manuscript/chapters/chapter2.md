@@ -72,6 +72,18 @@ home team. Neutrality is critical to credibility.
 
 ---
 
+## The Referee Partnership: Mutual Learning and Growth
+
+During referee meetings with the chain gang, we share information and make each other better. But here's the deeper goal of these gatherings.
+
+The idea is that if we can both come to an understanding of how a good, professional, and efficient chain gang works, then we should be able to quickly and safely bring a fresh, inexperienced crew up to speed. This is achieved by us sharing what we know about the chain gang, and you learning from it.
+
+For us, we become a better gang even just by bringing new members on. And the more we learn together, the closer we become to achieving that tie for first place in performance.
+
+**Pro Tip:** The best referee-chain gang relationships are built on mutual respect and shared learning. When both sides understand each other's roles and challenges, the entire officiating team performs at a higher level.
+
+---
+
 ## Three-Person vs. Four-Person Crews
 
 - **Three-Person Crew:** One handles the down box, two handle the sticks (the 

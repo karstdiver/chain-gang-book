@@ -73,6 +73,38 @@ accurate resets, quarter changes, and measurements.
 
 ---
 
+## The Clip: Physical Design and Customization
+
+The clip has two primary functions that determine its effectiveness. First, it must attach securely to a single chain link. Second, it must clearly indicate the yard marker where it's positioned. The effectiveness of these functions depends on the clip's design and any customizations made by the chain gang.
+
+**Standard Clips**
+
+You can purchase pre-made clips from online stores like Horning. These are affordable and typically come with a spring clip attached to either a strip clip or a dial clip. However, the standard spring clip is quite small, making it difficult to pinch and attach to the chain efficiently and comfortably.
+
+**Pro Tip:** If the clip operator is uncomfortable due to something as simple as sore fingers from using a small clip, the chain gang isn't performing as well as it could. For someone new to using these clips, this discomfort can quickly become a problem.
+
+**Customization Solutions**
+
+To address this issue, I've added larger spring clips to my clips. These are easier on my thumb and fingers, making it more comfortable to attach and detach them. Remember, if you're using a two-clip system, you'll be doing this at least twice every series.
+
+**Clip Indicators**
+
+There are two types of indicators on these clips:
+
+- **Cloth Strip Clip:** Features a cloth strip with yard numbers either embroidered or printed along it. A plastic clip slides up and down this strip to mark the yard marker.
+
+- **Circular Dial Clip:** Features a circular clip with a dial that has a window displaying the yard marker line.
+
+**Pro Tip:** I've found that the circular clip is physically harder to use than the cloth strip clip. This is an important consideration for new users and something the head linesman should consider when providing clips to the team.
+
+**Durability Concerns**
+
+The circular clip seems prone to breakage. It's made of plastic and has a single attachment point. A strong impact, like a cleat step, could easily break it. Therefore, it's advisable to have a backup clip in the kit.
+
+**Pro Tip:** Carry the clips on a lanyard. Imagine having a lanyard around your neck with a slip ring at the end. You can use the spring clip to easily attach it to the slip ring. This setup helps you quickly locate and handle the clips.
+
+---
+
 ## Inspection & Maintenance Protocol
 
 Every crew should inspect the equipment before kickoff:  

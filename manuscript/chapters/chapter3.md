@@ -115,7 +115,31 @@ Every crew should inspect the equipment before kickoff:
 - **Clip:** Ensure it attaches securely, markings are visible, and at least one 
   backup is available.  
 
-A game flows best when the chain gang eliminates surprises before they occur.  
+A game flows best when the chain gang eliminates surprises before they occur.
+
+---
+
+## Chain Gang Kits: Organization and Preparation
+
+There are two main types of kits for the chain gang, specifically for the clip operator. Understanding both helps you stay organized and prepared for any situation.
+
+**The Game Day Kit**
+
+The game day kit includes everything you need to perform your role on the field. It contains all the necessary and sufficient items for game day operations. The contents of this kit are often influenced by the weather, your uniform, and the specific role you will be playing.
+
+**Pro Tip:** Always carry ChapStick in your game day kit. It's small, fits easily in a pocket, and is indispensable when you need it. Chapped lips can be a real distraction, often caused by wind or varying humidity levels. So, always carry two ChapSticks.
+
+**The Non-Game Day Kit**
+
+The non-game day kit is the primary storage system that holds all your chain gang gear, including personal game day items and instruments. For instance, I use a heavy-duty plastic bag to store all my gear. I simply grab it by the handles, stash it in the car, and take items out as needed on game day. After the game, everything goes back into the plastic bag.
+
+This bag also hangs neatly on a hanger in the closet alongside your chain gang uniforms or shirts. Essentially, the game day kit is a subset of the non-game day kit.
+
+**Pro Tip:** Think of your non-game day kit as a go bag or grab bag that contains everything you might need for the field.
+
+**Backup Strategy**
+
+**Pro Tip:** Consider buying backups of some items in your kit. I make sure to have multiple ChapSticks and also prefer to have two helmet liners in my grab bag. These items are crucial for performing well on the sideline, and it's important to have them readily available.
 
 ---
 

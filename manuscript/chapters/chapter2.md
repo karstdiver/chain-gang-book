@@ -81,6 +81,43 @@ home team. Neutrality is critical to credibility.
 
 ---
 
+## The Chain Gang Cadence
+
+A well-oiled chain gang operates with a specific rhythm, almost like a musical movement. Every participant moves in harmony to achieve high-level performance. This rhythm is the cadence.
+
+The cadence sequence flows like this: mark, box, stick, stick, clip. Repeat: mark, box, stick, stick, clip. Each element follows the previous one in perfect order.
+
+The clip plays a crucial role as the final element in the cadence. It follows the sequence, starting from the first stick. The clip observes the setting of the mark and the box, then moves down the line to determine where it should be attached.
+
+**Pro Tip:** How well a gang executes this cadence is a measure of performance and understanding. The highest-performing crews execute the cadence quickly, efficiently, and silently. Does an orchestra need to talk?
+
+### Cadence Disruptions
+
+The cadence can be disrupted by several factors:
+
+- **Penalties:** What we refer to as encroachment on the chain gang
+- **Change of quarter:** Natural break in the rhythm  
+- **Measurements:** Required pause in operations
+- **Rapid first downs:** Quick succession of plays
+
+**Pro Tip:** Although we can't throw a flag, the concept of encroachment is significant. We even created a new penalty for it, called "encroachment on the chain gang," which we signal by throwing a clip onto the field.
+
+### Performance Standards
+
+The highest-performing crews execute the cadence quickly, efficiently, and silently. They move as one unit, each member knowing their role and timing. When you watch a game, look for this cadence—or the lack of it. If the gang is out of tune, see Appendix TBD for away game procedures.
+
+---
+
+### SIDEBAR: From the Sideline — The Orchestra of the Chains
+
+One Friday night, I watched a chain gang that moved with such precision that spectators began to notice. "They're like a well-oiled machine," one parent commented. The crew had mastered the cadence: mark, box, stick, stick, clip. Each movement flowed into the next without hesitation.
+
+The contrast was striking when we worked with a less experienced crew the following week. Their movements were hesitant, their timing off. The game felt choppy, and even the referees noticed the difference. The lesson was clear: cadence matters.
+
+<!-- end-sidebar -->
+
+---
+
 ### SIDEBAR: From the Sideline — Two Sticks, One Chain, Three Personalities
 
 One season, the stick crew was made up of two lifelong friends. They were 

@@ -1,0 +1,32 @@
+# Front matter
+manuscript/frontmatter/preface.md
+manuscript/frontmatter/acknowledgements.md
+
+# Chapters
+manuscript/chapters/chapter1.md
+manuscript/chapters/chapter2.md
+manuscript/chapters/chapter3.md
+manuscript/chapters/chapter4.md
+manuscript/chapters/chapter5.md
+manuscript/chapters/chapter6.md
+manuscript/chapters/chapter7.md
+manuscript/chapters/chapter8.md
+manuscript/chapters/chapter9.md
+manuscript/chapters/chapter10.md
+manuscript/chapters/chapter11.md
+manuscript/chapters/chapter12.md
+
+# Back matter
+manuscript/conclusion.md
+
+# Appendices
+manuscript/appendices/appendixA.md
+manuscript/appendices/appendixB.md
+manuscript/appendices/appendixC.md
+manuscript/appendices/appendixD.md
+manuscript/appendices/appendixE.md
+manuscript/appendices/appendixF.md
+manuscript/appendices/appendixG.md
+manuscript/appendices/appendixH.md
+manuscript/appendices/appendixI.md
+

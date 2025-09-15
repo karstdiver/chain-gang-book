@@ -1,0 +1,40 @@
+# Build outputs
+manuscript/book.md
+exports/
+
+# LaTeX / Pandoc temp files
+*.aux
+*.log
+*.out
+*.toc
+
+# Temporary files
+*.tmp
+*.temp
+junk*
+
+# LaTeX build files (if using LaTeX)
+*.aux
+*.toc
+*.out
+*.log
+*.pdf
+*.dvi
+*.ps
+
+# Word processor temp files
+~$*
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Backup files
+*~
+

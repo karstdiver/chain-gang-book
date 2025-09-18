@@ -17,6 +17,7 @@ help:
 	@echo "  fullbookmd - Stitch together into book.md"
 	@echo "  draft   - Quick PDF build (no template/filters, for proofing)"
 	@echo "  pdf     - Build print-ready PDF (styled)"
+	@echo "  showpdf - Build PDF and open in default viewer"
 	@echo "  epub    - Build EPUB for Apple Books / Kindle"
 	@echo "  docx    - Build Word/Pages version"
 	@echo "  clean   - Remove LaTeX build artifacts"
@@ -51,6 +52,9 @@ docx:
 	  --toc --number-sections \
 	  --reference-doc=$(REFDOCX) \
 	  --lua-filter=$(LUAFILTER)
+
+showpdf: pdf
+	open exports/pdf/$(TITLE).pdf
 
 clean:
 	rm -f *.aux *.log *.out *.toc *.nav *.snm *.synctex.gz

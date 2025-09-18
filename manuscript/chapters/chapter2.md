@@ -70,6 +70,9 @@ linesman — are integral to operations. They:
 The chain gang should always remember: we work for the officials, not for the 
 home team. Neutrality is critical to credibility.  
 
+![Head linesman pre-game briefing checklist on clipboard](./assets/images/photos/ch02_hl-pregame-checklist.jpg)
+*Figure 2.1: Head linesman's on-field pre-game briefing checklist.*
+
 ---
 
 ## The Referee Partnership: Mutual Learning and Growth
@@ -87,7 +90,8 @@ For us, we become a better gang even just by bringing new members on. And the mo
 ## Three-Person vs. Four-Person Crews
 
 - **Three-Person Crew:** One handles the down box, two handle the sticks (the 
-  clip responsibility is folded into the stick crew).  
+  clip responsibility is folded into the stick crew). In this configuration the clip is placed by the stick while the box temporaily holds both the stick and box. This places additional effort on the crew and, in a fast moving game, some steps can be missed potentially leading to game delays and sideline confusion.
+
 - **Four-Person Crew:** Standard setup — box, two sticks, and dedicated clip 
   operator. This is the preferred structure for accuracy and efficiency.  
 

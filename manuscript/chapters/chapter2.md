@@ -70,6 +70,26 @@ linesman — are integral to operations. They:
 The chain gang should always remember: we work for the officials, not for the 
 home team. Neutrality is critical to credibility.  
 
+---
+
+## Impartiality and Friendliness
+
+The chain gang's impartiality does not mean being unfriendly. It is important for the chain gang, as representatives of the whole team, to be polite to visitors. This includes greeting each visitor with a hello and expressing gladness that they could come.
+
+During halftime and after the game, wearing the chain gang uniform can give you a level of authority. You are representing the school, and both home and away parents may recognize this. They might approach you for help because you appear important.
+
+These encounters should always be friendly and helpful, regardless of the game's outcome. It's a level of sportsmanship that extends beyond the playing field.
+
+**Pro Tip:** Your uniform represents the school and the officiating crew. Use this authority responsibly by being helpful and courteous to all visitors, whether they're from your team or the opposing team.
+
+### SIDEBAR: From the Sideline — A Simple Act of Service
+
+After a game, as we were enjoying the celebration, a visiting parent approached me. They handed me two credit cards they had found on the ground and asked if I could take care of them. I agreed to help in a friendly manner.
+
+I promptly located someone with more authority and passed the cards to them. Eventually, the cards reached the Athletic Director, who decided to conduct an investigation into the matter. A simple act of service, made possible by the trust that comes with wearing the chain gang uniform.
+
+<!-- end-sidebar -->
+
 ![Head linesman pre-game briefing checklist on clipboard](./assets/images/photos/ch02_hl-pregame-checklist.jpg)
 *Figure 2.1: Head linesman's on-field pre-game briefing checklist.*
 
@@ -129,6 +149,14 @@ The highest-performing crews execute the cadence quickly, efficiently, and silen
 One Friday night, I watched a chain gang that moved with such precision that spectators began to notice. "They're like a well-oiled machine," one parent commented. The crew had mastered the cadence: mark, box, stick, stick, clip. Each movement flowed into the next without hesitation.
 
 The contrast was striking when we worked with a less experienced crew the following week. Their movements were hesitant, their timing off. The game felt choppy, and even the referees noticed the difference. The lesson was clear: cadence matters.
+
+<!-- end-sidebar -->
+
+---
+
+### SIDEBAR: From the Sideline — Communication Standards
+
+Our chain gang overheard a head linesman from the sidelines. He said, "I don't ask for much, but when you speak to me, make sure it's louder than the sidelines." Lesson learned.
 
 <!-- end-sidebar -->
 

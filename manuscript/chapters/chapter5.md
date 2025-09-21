@@ -69,12 +69,30 @@ and making the officiating crew’s job easier.
 
 ---
 
+## Sticks Procedure During Active Play
+
+During plays where the chain gang sticks are not needed, they should be moved horizontally towards the 20-yard line. The sticks and chain should be moved to between the 20-yard line and the goal line. This gets them out of the way on the sideline.
+
+You can either lay them on the ground or hold them vertically or horizontally. The main goal is to clear the sidelines of the sticks to avoid confusion about the location of the first down.
+
+**Pro Tip:** This procedure prevents sideline clutter and ensures that when the sticks are needed again, they're easily accessible without interfering with ongoing play or creating confusion for players, coaches, and officials.
+
+## Box Duty During Quarter Swap
+
+Chain gang box duty involves monitoring the yard mark during the quarter swap. It's crucial because the box operates independently from the sticks and chain.
+
+The box must remember the mark's position on the field, particularly if the head linesman fails to record it. This independent operation requires the box operator to maintain situational awareness throughout the quarter change process.
+
+**Pro Tip:** The box operator serves as a backup reference point for field position when other crew members or officials might lose track of the exact yard line during the quarter swap procedure.
+
+---
+
 ### SIDEBAR: From the Sideline — When the Coin Toss Chose Our Fate
 
-At one game, the crew assumed they’d be stationed on the home sideline as 
+At one game, the crew assumed they'd be stationed on the home sideline as 
 usual. Then the visiting team won the toss, chose the opposite side, and the 
 referee waved the crew across. They had to scramble, dragging the chain and 
 box through cheerleaders, water bottles, and startled coaches. Since then, the 
-crew has had a motto: “Don’t unpack until the coin hits the ground.”  
+crew has had a motto: "Don't unpack until the coin hits the ground."  
 
 <!-- end-sidebar -->

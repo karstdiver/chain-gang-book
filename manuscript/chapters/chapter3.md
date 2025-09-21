@@ -103,6 +103,36 @@ The circular clip seems prone to breakage. It's made of plastic and has a single
 
 **Pro Tip:** Carry the clips on a lanyard. Imagine having a lanyard around your neck with a slip ring at the end. You can use the spring clip to easily attach it to the slip ring. This setup helps you quickly locate and handle the clips.
 
+### Clip Operation Details
+
+**Physical Positioning**
+
+During operations, the clips are always on the floor. This means you must bend down either to place the clip on the floor or to pick it up. This part is particularly strenuous because the clip is always on the ground. From the sideline, I've heard new clip recruits exclaim, "All the way down on the floor!"
+
+**Pro Tip:** The clip operator is always bending down and therefore loses visibility of the field and to others on the sidelines—players, coaches, and other gang members. Be extra careful when placing a clip close to the spot, as you might accidentally trip the box operator.
+
+**Placement Rules**
+
+Don't put the clip within 1 yard of the first down spot. In this case, place the clip on the next downfield yard line. 
+
+**Pro Tip:** The 1-yard rule exists for two important reasons. First, it prevents overcrowding near the head linesman, box, stick, and clip—too many people in one spot creates confusion and safety hazards. Second, and more importantly, if an on-field measurement becomes necessary, the referees need room to place the stick, place the clip, and do the long pull without interference from the chain gang equipment.
+
+**Tracking and Documentation**
+
+**Pro Tip:** When you're using your tracking app, set the clip and then take a few steps backwards. Make sure you move perpendicular to the sideline. This action creates a line on your tracking map.
+
+After the game, you can review the map to see where you placed the clips. Remember, this method isn't exact as you can't step back for every clip you set. However, it helps you visualize the pattern of the game.
+
+---
+
+## Safety and Uniforms
+
+Chain gang safety and uniforms are important aspects to consider. Some athletic directors provide high visibility clothing, such as vests, for the chain gang. Whether to use these vests is optional and depends on the decision of the athletic director and the preferences of the chain gang crew.
+
+This practice is more common in higher-level football, including college and professional leagues. Unlike volunteers at the high school level, these crew members are typically paid professionals who may be required to wear standardized safety equipment.
+
+**Pro Tip:** If your school provides high visibility vests, consider using them for night games or when working in areas with limited visibility. The safety benefit often outweighs any minor inconvenience, especially during fast-moving games or in crowded sideline situations.
+
 ---
 
 ## Inspection & Maintenance Protocol
@@ -140,6 +170,12 @@ This bag also hangs neatly on a hanger in the closet alongside your chain gang u
 **Backup Strategy**
 
 **Pro Tip:** Consider buying backups of some items in your kit. I make sure to have multiple ChapSticks and also prefer to have two helmet liners in my grab bag. These items are crucial for performing well on the sideline, and it's important to have them readily available.
+
+### Personal Grooming Kit
+
+**Pro Tip:** Consider carrying a small personal grooming kit in your off-game day kit. This is just in case you need to freshen up after a game, especially if you're heading to the local wing joint with other fans. Include items like a comb, some wet wipes, and maybe even a disposable toothbrush. Keeping these items cool in a cooler can be a good idea.
+
+It's also smart to carry a fresh shirt in your kit. If you're part of the chain gang, make sure the fresh shirt you bring for the post-game celebration sports your team's colors. You wouldn't want to take off your colors after a game when you're out celebrating with friends.
 
 ---
 

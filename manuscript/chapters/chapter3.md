@@ -27,6 +27,30 @@ the line of scrimmage.
 - Many schools use LED boxes for visibility. These must be charged postgame.  
 - A manual backup is advisable in case of battery failure.  
 
+### Manual vs. Electronic Boxes
+
+We have two types of boxes: the manual and the electronic LED. Each has distinct advantages and challenges that affect game-day operations.
+
+**Manual Box**
+
+The manual box, which uses levers to select the down number, is known for its reliability and lighter weight compared to the LED versions. This difference in weight affects how challenging it is to carry the pole and box head during the game.
+
+**Pro Tip:** The manual box should be used when the game is subject to low-line-of-sight sun at the horizon. The LED box is just about unreadable with bright sunlight, making the manual box the better choice for visibility in these conditions.
+
+**Electronic LED Box**
+
+The LED version is heavier but offers better visibility under normal lighting conditions. However, this comes with operational concerns.
+
+**Pro Tip:** Every game now has the concern: "Is the box charged?" Especially since the crew doesn't have access to the charger after the game. We put the box in the coaches lobby (and catch air conditioning) and hope the box gets noticed and charged. It always has so far.
+
+### SIDEBAR: From the Sideline — How We Got Our LED Box
+
+For many seasons, our high school team used a manual box. In fact, we still keep the manual box as a backup. However, we switched to an electronic LED sideline box because a wealthy alumnus had trouble reading the manual one. This donor generously purchased the LED box for us, enabling him and his family to clearly see the down marker.
+
+This is the story of how we acquired our electronic LED box.
+
+<!-- end-sidebar -->
+
 ---
 
 ## The Sticks (First Down Markers & Chain)

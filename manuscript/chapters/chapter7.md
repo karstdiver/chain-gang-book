@@ -18,20 +18,19 @@ well, they become invisible — the highest compliment a chain crew can receive.
 - The other marks the line 10 yards ahead.  
 
 ### Maintain Proper Distance  
-- The chain between them must stay taut and accurate.  
-- Constant vigilance is required to prevent slack, kinks, or accidental 
+- Keep the chain between them taut and accurate.  
+- Maintain constant vigilance to prevent slack, kinks, or accidental 
   misplacement.  
 
 ### Respond to Signals  
-- The near stick sets first, then signals with a thumbs-up when secure.  
-- The downfield stick operator then pulls the chain taut and locks position.  
+- Set the near stick first, then signal with a thumbs-up when secure.  
+- Pull the chain taut and lock position as the downfield stick operator.  
 
 ### Measurements  
 When a close call occurs, the sticks become the centerpiece of the game:  
-- Upon the referee’s signal, both stick operators lift their poles while 
-  keeping the chain taut.  
-- They jog onto the field and lay the sticks down for measurement.  
-- The clip operator ensures accuracy by confirming the clip placement.  
+- Lift both poles while keeping the chain taut upon the referee's signal.  
+- Jog onto the field and lay the sticks down for measurement.  
+- Ensure accuracy by confirming the clip placement as the clip operator.  
 
 This is a moment of high visibility. A calm, precise response reassures 
 referees and spectators alike.  
@@ -40,10 +39,10 @@ referees and spectators alike.
 
 ## Storage and Transport
 
-- After the game, the two stick operators should align the poles, wrap the 
-  chain around the bases, and secure them in a designated storage area.  
-- Chains left tangled or bent create problems for the next crew and risk 
-  safety issues.  
+- Align the poles, wrap the chain around the bases, and secure them in a 
+  designated storage area after the game.  
+- Avoid leaving chains tangled or bent, as they create problems for the next 
+  crew and risk safety issues.  
 
 ---
 

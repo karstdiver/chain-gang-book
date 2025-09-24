@@ -94,8 +94,8 @@ accurate resets, quarter changes, and measurements.
 **Maintenance:**  
 - Carry spare clips. Homemade or custom versions can be sturdier than 
   referee-issued ones.  
-- A basic chain repair kit (slip rings, spring clips) should always be part of 
-  the clip operator’s kit.  
+- Include a basic chain repair kit (slip rings, spring clips) as part of 
+  the clip operator's kit.  
 
 ---
 

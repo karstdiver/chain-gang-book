@@ -19,15 +19,15 @@ requires focus, communication, and an appreciation for small details.
 - This allows the crew to return the chains to the correct spot if moved.  
 
 ### Quarter Changes  
-- When the teams switch ends of the field, the referee uses the clip to 
-  realign the chains.  
-- The clip operator confirms placement, points to the correct line, and says, 
-  “Ball side,” so officials know which way to reorient.  
+- Realign the chains when the teams switch ends of the field, using the clip as 
+  the referee directs.  
+- Confirm placement, point to the correct line, and say "Ball side" so officials 
+  know which way to reorient.  
 
 ### Measurements  
-- During close plays, the clip ensures the 10-yard distance remains exact.  
-- As the stick crew brings the chains onto the field, the clip operator places 
-  the marked line first, anchoring accuracy for the referee’s decision.  
+- Ensure the 10-yard distance remains exact during close plays.  
+- Place the marked line first as the stick crew brings the chains onto the field, 
+  anchoring accuracy for the referee's decision.  
 
 ---
 

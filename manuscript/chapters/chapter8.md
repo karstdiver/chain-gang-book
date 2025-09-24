@@ -86,3 +86,6 @@ that said everything. Lesson learned: never tempt fate — and never ask
 referees that question with a straight face.  
 
 <!-- end-sidebar -->
+
+The clip may be small, but it anchors the entire system. Get it right, and the officials — and the game — will thank you.
+

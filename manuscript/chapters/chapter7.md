@@ -77,3 +77,6 @@ that night forward, the referees reminded the crew: “The sticks move faster
 without you attached.”  
 
 <!-- end-sidebar -->
+
+When the sticks operate smoothly, the game flows; when they falter, everyone notices. Precision here is what keeps the field honest.
+

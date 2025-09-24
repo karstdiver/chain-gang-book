@@ -81,6 +81,7 @@ During halftime and after the game, wearing the chain gang uniform can give you 
 These encounters should always be friendly and helpful, regardless of the game's outcome. It's a level of sportsmanship that extends beyond the playing field.
 
 **Pro Tip:** Your uniform represents the school and the officiating crew. Use this authority responsibly by being helpful and courteous to all visitors, whether they're from your team or the opposing team.
+<!-- end-protip-->
 
 ### SIDEBAR: From the Sideline — A Simple Act of Service
 
@@ -104,6 +105,7 @@ The idea is that if we can both come to an understanding of how a good, professi
 For us, we become a better gang even just by bringing new members on. And the more we learn together, the closer we become to achieving that tie for first place in performance.
 
 **Pro Tip:** The best referee-chain gang relationships are built on mutual respect and shared learning. When both sides understand each other's roles and challenges, the entire officiating team performs at a higher level.
+<!-- end-protip-->
 
 ---
 
@@ -126,6 +128,7 @@ The cadence sequence flows like this: mark, box, stick, stick, clip. Repeat: mar
 The clip plays a crucial role as the final element in the cadence. It follows the sequence, starting from the first stick. The clip observes the setting of the mark and the box, then moves down the line to determine where it should be attached.
 
 **Pro Tip:** How well a gang executes this cadence is a measure of performance and understanding. The highest-performing crews execute the cadence quickly, efficiently, and silently. Does an orchestra need to talk?
+<!-- end-protip-->
 
 ### Cadence Disruptions
 
@@ -137,6 +140,7 @@ The cadence can be disrupted by several factors:
 - **Rapid first downs:** Quick succession of plays
 
 **Pro Tip:** Although we can't throw a flag, the concept of encroachment is significant. We even created a new penalty for it, called "encroachment on the chain gang," which we signal by throwing a clip onto the field.
+<!-- end-protip-->
 
 ### Performance Standards
 
@@ -172,3 +176,6 @@ exactly 10 yards apart.” It broke the tension and became a running joke the
 rest of the year.  
 
 <!-- end-sidebar -->
+
+Understanding each role in the chain gang — and how they fit together — transforms a group of volunteers into a crew that officials can trust.
+

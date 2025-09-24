@@ -36,12 +36,14 @@ We have two types of boxes: the manual and the electronic LED. Each has distinct
 The manual box, which uses levers to select the down number, is known for its reliability and lighter weight compared to the LED versions. This difference in weight affects how challenging it is to carry the pole and box head during the game.
 
 **Pro Tip:** The manual box should be used when the game is subject to low-line-of-sight sun at the horizon. The LED box is just about unreadable with bright sunlight, making the manual box the better choice for visibility in these conditions.
+<!-- end-protip -->
 
 **Electronic LED Box**
 
 The LED version is heavier but offers better visibility under normal lighting conditions. However, this comes with operational concerns.
 
 **Pro Tip:** Every game now has the concern: "Is the box charged?" Especially since the crew doesn't have access to the charger after the game. We put the box in the coaches lobby (and catch air conditioning) and hope the box gets noticed and charged. It always has so far.
+<!-- end-protip -->
 
 ### SIDEBAR: From the Sideline — How We Got Our LED Box
 
@@ -106,6 +108,7 @@ The clip has two primary functions that determine its effectiveness. First, it m
 You can purchase pre-made clips from online stores like Horning. These are affordable and typically come with a spring clip attached to either a strip clip or a dial clip. However, the standard spring clip is quite small, making it difficult to pinch and attach to the chain efficiently and comfortably.
 
 **Pro Tip:** If the clip operator is uncomfortable due to something as simple as sore fingers from using a small clip, the chain gang isn't performing as well as it could. For someone new to using these clips, this discomfort can quickly become a problem.
+<!-- end-protip -->
 
 **Customization Solutions**
 
@@ -120,12 +123,14 @@ There are two types of indicators on these clips:
 - **Circular Dial Clip:** Features a circular clip with a dial that has a window displaying the yard marker line.
 
 **Pro Tip:** I've found that the circular clip is physically harder to use than the cloth strip clip. This is an important consideration for new users and something the head linesman should consider when providing clips to the team.
+<!-- end-protip -->
 
 **Durability Concerns**
 
 The circular clip seems prone to breakage. It's made of plastic and has a single attachment point. A strong impact, like a cleat step, could easily break it. Therefore, it's advisable to have a backup clip in the kit.
 
 **Pro Tip:** Carry the clips on a lanyard. Imagine having a lanyard around your neck with a slip ring at the end. You can use the spring clip to easily attach it to the slip ring. This setup helps you quickly locate and handle the clips.
+<!-- end-protip -->
 
 ### Clip Operation Details
 
@@ -134,16 +139,19 @@ The circular clip seems prone to breakage. It's made of plastic and has a single
 During operations, the clips are always on the floor. This means you must bend down either to place the clip on the floor or to pick it up. This part is particularly strenuous because the clip is always on the ground. From the sideline, I've heard new clip recruits exclaim, "All the way down on the floor!"
 
 **Pro Tip:** The clip operator is always bending down and therefore loses visibility of the field and to others on the sidelines—players, coaches, and other gang members. Be extra careful when placing a clip close to the spot, as you might accidentally trip the box operator.
+<!-- end-protip -->
 
 **Placement Rules**
 
 Don't put the clip within 1 yard of the first down spot. In this case, place the clip on the next downfield yard line. 
 
 **Pro Tip:** The 1-yard rule exists for two important reasons. First, it prevents overcrowding near the head linesman, box, stick, and clip—too many people in one spot creates confusion and safety hazards. Second, and more importantly, if an on-field measurement becomes necessary, the referees need room to place the stick, place the clip, and do the long pull without interference from the chain gang equipment.
+<!-- end-protip -->
 
 **Tracking and Documentation**
 
-**Pro Tip:** When you're using your tracking app, set the clip and then take a few steps backwards. Make sure you move perpendicular to the sideline. This action creates a line on your tracking map.
+**Pro Tip:** When you're using your tracking app, set the clip and then take a few steps backwards. Make sure you move perpendicular to the sideline. This action creates a line on your tracking map and increases step count.
+<!-- end-protip -->
 
 After the game, you can review the map to see where you placed the clips. Remember, this method isn't exact as you can't step back for every clip you set. However, it helps you visualize the pattern of the game.
 
@@ -156,6 +164,7 @@ Chain gang safety and uniforms are important aspects to consider. Some athletic 
 This practice is more common in higher-level football, including college and professional leagues. Unlike volunteers at the high school level, these crew members are typically paid professionals who may be required to wear standardized safety equipment.
 
 **Pro Tip:** If your school provides high visibility vests, consider using them for night games or when working in areas with limited visibility. The safety benefit often outweighs any minor inconvenience, especially during fast-moving games or in crowded sideline situations.
+<!-- end-protip -->
 
 ---
 
@@ -182,6 +191,7 @@ There are two main types of kits for the chain gang, specifically for the clip o
 The game day kit includes everything you need to perform your role on the field. It contains all the necessary and sufficient items for game day operations. The contents of this kit are often influenced by the weather, your uniform, and the specific role you will be playing.
 
 **Pro Tip:** Always carry ChapStick in your game day kit. It's small, fits easily in a pocket, and is indispensable when you need it. Chapped lips can be a real distraction, often caused by wind or varying humidity levels. So, always carry two ChapSticks.
+<!-- end-protip -->
 
 **The Non-Game Day Kit**
 
@@ -190,14 +200,17 @@ The non-game day kit is the primary storage system that holds all your chain gan
 This bag also hangs neatly on a hanger in the closet alongside your chain gang uniforms or shirts. Essentially, the game day kit is a subset of the non-game day kit.
 
 **Pro Tip:** Think of your non-game day kit as a go bag or grab bag that contains everything you might need for the field.
+<!-- end-protip -->
 
 **Backup Strategy**
 
 **Pro Tip:** Consider buying backups of some items in your kit. I make sure to have multiple ChapSticks and also prefer to have two helmet liners in my grab bag. These items are crucial for performing well on the sideline, and it's important to have them readily available.
+<!-- end-protip -->
 
 ### Personal Grooming Kit
 
 **Pro Tip:** Consider carrying a small personal grooming kit in your off-game day kit. This is just in case you need to freshen up after a game, especially if you're heading to the local wing joint with other fans. Include items like a comb, some wet wipes, and maybe even a disposable toothbrush. Keeping these items cool in a cooler can be a good idea.
+<!-- end-protip -->
 
 It's also smart to carry a fresh shirt in your kit. If you're part of the chain gang, make sure the fresh shirt you bring for the post-game celebration sports your team's colors. You wouldn't want to take off your colors after a game when you're out celebrating with friends.
 

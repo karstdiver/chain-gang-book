@@ -1,71 +1,68 @@
-# Chapter 12 — Special Weather Conditions
+# Chapter 12 — Weather Conditions & Special Circumstances
 
-Football is an outdoor game, and the chain crew shares the same exposure as 
-players, referees, and fans. Heat, cold, rain, and lightning delays all add 
-complexity to the job. A prepared crew adapts smoothly, while an unprepared 
-crew risks distraction, discomfort, or worse — unsafe conditions.  
+Weather is one of the few factors no crew can control, yet it shapes nearly every
+game. From blazing heat to lightning delays, chain gangs must be prepared to
+adapt quickly and professionally. A crew that is weather-ready keeps the game
+moving safely while showing referees and athletic directors that they can be
+trusted in all conditions.
 
 ---
 
 ## Heat Management
 
-Hot games are the most common challenge.  
-- **Hydration:** Carry water and sip often.  
-- **Cooling Tools:** Helmet liners, cooling towels, and shade breaks help keep 
-  body temperature down.  
-- **Clothing Choices:** Long sleeves and hoods can actually keep direct sun off 
-  the skin, reducing fatigue from radiant heat.  
+- Wear lightweight, breathable clothing in school colors or neutral tones.
+- Use cooling towels or helmet liners during hot weather.
+- Long-sleeve, hooded shirts can protect skin from direct sunlight and actually
+  keep body temperature down when chosen in light, breathable fabrics.
+- Carry water and take small sips during breaks in play.
 
 ---
 
 ## Cold Weather
 
-Chilly nights require just as much planning.  
-- **Layering:** Multiple light layers insulate better than one heavy jacket.  
-- **Modern Gear:** Heated vests, socks, and gloves powered by USB packs are 
-  increasingly affordable. They can make late-season games far more tolerable.  
-- **Mobility First:** Avoid bulky coats that restrict arm or shoulder movement.  
+- Layer clothing: base layer for warmth, mid-layer for insulation, outer shell
+  for wind protection.
+- Modern heated clothing (vests, socks, gloves) powered by USB packs can extend
+  comfort in long, cold games.
+- Stay mobile between plays to prevent stiffness.
 
 ---
 
-## Rain
+## Rain & Storms
 
-Rain is less dangerous than heat or cold but more disruptive to equipment.  
-- **Waterproofing:** Lightweight ponchos or frog togs pack down small and keep 
-  gear dry.  
-- **Electronics:** Keep LED boxes covered if possible. Always carry a plastic 
-  bag for your wallet, phone, or radio.  
-- **Field Awareness:** Wet sidelines are slippery; shoes with good traction 
-  reduce the chance of falls.  
+- Lightweight ponchos or frog togs that can be stowed in a bag or clipped to a
+  belt are essential.
+- Keep a plastic bag for valuables such as phone and wallet.
+- Avoid umbrellas, which block vision and create hazards on the sideline.
 
 ---
 
 ## Lightning Delays
 
-Lightning is the one condition that stops football entirely.  
-- **The Rule:** Any strike within range adds 30 minutes to the delay.  
-- **Safety First:** Volunteers must evacuate the field immediately — often with 
-  no time to return to their cars. Identify shelter locations before kickoff.  
-- **Patience:** Delays may last an hour or more. Crews should stay together and 
-  wait for the all-clear before returning.  
+- Lightning within a designated range requires a mandatory delay, usually
+  30 minutes from the most recent strike.
+- Evacuate immediately to a safe location — do not linger near metal equipment
+  or goalposts.
+- Crews may not have time to return to vehicles, so know the location of the
+  nearest shelter.
 
 ---
 
 ## Professional Standard
 
-Weather affects everyone, but a chain crew that prepares for conditions stands 
-out. Referees trust a crew that doesn’t need babysitting in the rain. Coaches 
-appreciate crews that keep working even in the cold. And athletic directors 
-notice when their volunteers show up ready, regardless of forecast.  
+Weather does not excuse unprofessional conduct. Crews that prepare for extreme
+conditions stay safe, keep officials focused on the game, and demonstrate pride
+in their role. The chain gang that handles weather calmly and competently is
+the crew referees and athletic directors want back every season.
 
 ---
 
-### SIDEBAR: From the Sideline — “No Such Thing as Bad Weather”
+### SIDEBAR: From the Sideline — "No Bad Weather"
 
-During one unexpectedly chilly game, the head linesman asked the crew if they 
-were cold. When they all admitted yes, he replied with a grin: “There is no 
-such thing as bad weather — just bad clothing.” The lesson stuck. Since then, 
-the crew has invested in better gear, and morale is always higher on frigid 
-nights.  
-
+During one unexpectedly chilly game, the head linesman asked the crew if they
+were cold. They admitted they were. He smiled and said, "There is no such thing
+as bad weather, just bad clothing." The crew laughed, but the point was made —
+preparation is the key to professionalism.
 <!-- end-sidebar -->
+
+Weather can be chaotic, but professionalism means the chain gang adapts without missing a step.

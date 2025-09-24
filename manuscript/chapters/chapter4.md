@@ -93,3 +93,6 @@ the sticks, and stood one bad bounce away from a serious injury. After that
 night, the crew made it a rule: “If your toes are showing, you’re not going.”  
 
 <!-- end-sidebar -->
+
+Uniforms may seem cosmetic, but they send a powerful message: this crew is prepared, professional, and ready to serve the game.
+

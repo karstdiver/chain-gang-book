@@ -31,28 +31,20 @@ Each chapter must follow this structure:
 2. **Primary content**: Clear subsections with headers.  
 3. **Pro tips and/or sidebars**: At least one in each chapter, where applicable.  
 4. **Landing sentence**: Concludes the chapter or sidebar, reinforces why the topic is critical to the crew's professionalism.  
-5. **Transition sentence**: When appropriate, leads smoothly into the next chapter. Every chapter should include at least one.  
+5. **Transition sentence**: When appropriate, leads smoothly into the next chapter.  
 
-- Each chapter should include:  
-  - Opening overview paragraph.  
-  - Subsections with `##` headings for clarity.  
-  - At least one sidebar with anecdote (if applicable).  
-  - **Landing sentence** at the end of the main text.  
-  - **Transition sentence** pointing forward to the next chapter (where appropriate).
+**Required elements for every chapter:**  
+- Opening overview paragraph  
+- Subsections with `##` headings for clarity  
+- At least one sidebar with anecdote (where applicable)  
+- **Landing sentence** at the end of the main text  
+- **Transition sentence** pointing forward to the next chapter (where appropriate)
 
 ---
 
 ## Anecdote Integration  
 - Anecdotes may repeat a theme (e.g., safety, footwear) but must not duplicate full stories across chapters.  
 - If duplication risk occurs, defer to the **earliest chapter** that establishes the theme and keep later mentions as brief references (e.g., "See Chapter 1 — closed-toe shoes are mandatory.").  
-
----
-
-## Structure  
-- Use `#` for chapter titles, e.g., `# Chapter 2 — Roles & Responsibilities`.  
-- Use `##` for major subheadings (e.g., Box, Sticks, Clip, Officials).  
-- Use `###` for sidebars or special notes.  
-- Do not skip heading levels.  
 
 ---
 
@@ -90,12 +82,6 @@ Each chapter must follow this structure:
 ---
 
 ## 2. Sidebars (Anecdotes)
-- Use the format:  
-  - `### SIDEBAR: From the Sideline — [Title]`  
-  - Anecdote in past tense.  
-  - Close with a humorous or reflective punch line.  
-- Always follow a sidebar with a **landing sentence** outside the box to reinforce why the anecdote matters.  
-
 ```markdown
 ### SIDEBAR: From the Sideline — [Title of Anecdote]
 
@@ -104,26 +90,28 @@ Each chapter must follow this structure:
 <!-- end-sidebar -->
 ```
 
-- Use `### SIDEBAR:` so we can style it consistently.  
-- Always close with `<!-- end-sidebar -->`.
+- Use `### SIDEBAR: From the Sideline — [Title]` format
+- Write anecdotes in past tense
+- Close with a humorous or reflective punch line
+- Always follow a sidebar with a **landing sentence** outside the box to reinforce why the anecdote matters
+- Always close with `<!-- end-sidebar -->`
 
 ---
 
 ## 3. Pro Tips
-- Special crew wisdom should be highlighted with a `**Pro Tip:**` prefix in bold.  
-- Keep these short and practical.  
-- Placement: Flexible, but should appear where the advice logically supports the main text.  
-- Frequency: At least every other chapter, ideally one per chapter.  
-- Content: Practical, actionable tips not covered in the main flow.  
-
 ```markdown
 **Pro Tip:** [Write your tip here.]
 
 <!-- end-protip -->
 ```
 
-- Always bold "Pro Tip:" exactly this way.  
-- End with `<!-- end-protip -->`.
+- Special crew wisdom should be highlighted with a `**Pro Tip:**` prefix in bold
+- Keep these short and practical
+- Placement: Flexible, but should appear where the advice logically supports the main text
+- Frequency: At least one per chapter
+- Content: Practical, actionable tips not covered in the main flow
+- Always bold "Pro Tip:" exactly this way
+- End with `<!-- end-protip -->`
 
 ---
 

@@ -250,6 +250,71 @@ Streamline appendices to be purely reference (checklists, templates, diagrams) �
 
 ---
 
+---
+
+## 11. Style Guide Compliance Checklist
+
+Use this checklist to systematically review each chapter for SG compliance. Report on each item as **✅ COMPLIANT**, **❌ NON-COMPLIANT**, or **⚠️ PARTIAL** with specific details.
+
+### **REQUIRED ELEMENTS**
+
+#### **Chapter Structure**
+- [ ] **Opening paragraph** explains why this chapter matters and links to game operations
+- [ ] **Primary content** has clear subsections with `##` headings
+- [ ] **At least one Pro Tip** present and properly formatted
+- [ ] **At least one sidebar** with anecdote (where applicable)
+- [ ] **Landing sentence** at end reinforces professionalism/safety/teamwork
+- [ ] **Transition sentence** points forward to next chapter (where appropriate)
+
+#### **Formatting Requirements**
+- [ ] **Chapter title** uses format: `# Chapter X — Title`
+- [ ] **Headings hierarchy** is correct (`#`, `##`, `###`) with no skipped levels
+- [ ] **Pro Tips** use format: `**Pro Tip:** [content]` with `<!-- end-protip -->`
+- [ ] **Sidebars** use format: `### SIDEBAR: From the Sideline — [Title]` with `<!-- end-sidebar -->`
+- [ ] **Figures** have alt text and captions: `*Figure X: [caption]*`
+
+#### **Content Quality**
+- [ ] **Professional standards language** reinforces neutrality and professionalism
+- [ ] **Tone consistency**: Instructional text in present tense, anecdotes in past tense
+- [ ] **Technical terms** properly bolded (line of scrimmage, first down, chain, etc.)
+- [ ] **Acronyms** spelled out on first use with parentheses
+- [ ] **No duplicate anecdotes** across chapters
+
+#### **Lists and Structure**
+- [ ] **Bullet lists** use `-` for duties/responsibilities
+- [ ] **Numbered lists** only for step-by-step sequences
+- [ ] **List items** are parallel in structure and grammar
+- [ ] **Checklists** use GitHub format: `- [ ] Item`
+
+### **RECOMMENDED ELEMENTS**
+
+- [ ] **Multiple Pro Tips** throughout chapter (beyond minimum)
+- [ ] **Engaging anecdotes** that reinforce key lessons
+- [ ] **Clear transitions** between subsections
+- [ ] **Consistent voice** throughout chapter
+- [ ] **Appropriate length** for chapter content
+
+### **COMPLIANCE REPORTING FORMAT**
+
+For each chapter review, provide:
+1. **Overall compliance percentage** (X/Y items compliant)
+2. **Critical issues** (Required elements that are non-compliant)
+3. **Minor issues** (Recommended elements or formatting)
+4. **Specific fixes needed** with line numbers where possible
+5. **Priority order** for addressing issues
+
+**Example:**
+```
+Chapter 2 Compliance Report: 8/12 Required Elements ✅
+❌ CRITICAL: Missing Pro Tip (required element)
+❌ CRITICAL: No landing sentence at end
+⚠️ PARTIAL: Sidebar present but missing <!-- end-sidebar -->
+✅ GOOD: Professional tone maintained throughout
+```
+
+---
+
 ✅ Keep this `STYLE_GUIDE.md` file in your project root.  
 ✅ Copy-paste snippets into `book.md` while drafting.  
+✅ Use the compliance checklist above to systematically review chapters.  
 ✅ Later, we'll convert systematically into LaTeX, DOCX, or EPUB.

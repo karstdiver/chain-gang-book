@@ -15,6 +15,7 @@ help:
 	@echo "Targets:"
 	@echo "  help    - Show this help message"
 	@echo "  fullbookmd - Stitch together into book.md"
+	@echo "  validate - Run validation checks (placeholder - TODO)"
 	@echo "  draft   - Quick PDF build (no template/filters, for proofing)"
 	@echo "  pdf     - Build print-ready PDF (styled)"
 	@echo "  showpdf - Build PDF and open in default viewer"
@@ -70,7 +71,7 @@ PROFILE ?= main
 MANIFEST := manuscript/manifest-$(PROFILE).txt
 OUTFILE  := manuscript/book.md
 
-.PHONY: fullbookmd show-manifest check-manifest
+.PHONY: fullbookmd show-manifest check-manifest validate
 
 show-manifest:
 	@echo "PROFILE = $(PROFILE)"
@@ -82,6 +83,14 @@ check-manifest:
 	@test -f "$(MANIFEST)" || (echo "❌ Missing manifest: $(MANIFEST)"; exit 1)
 	@grep -v '^\s*#' "$(MANIFEST)" | grep -vq '^\s*$$' || \
 	  (echo "❌ Manifest has no content: $(MANIFEST)"; exit 1)
+
+# Validation (placeholder - to be implemented)
+# See BUILD_VALIDATION_ANALYSIS.md for implementation plan
+validate:
+	@echo "⚠️  Validation is planned but not yet implemented."
+	@echo "   This will check manifest structure, image references, and chapter formatting."
+	@echo "   See BUILD_VALIDATION_ANALYSIS.md for details."
+	@exit 0
 
 fullbookmd: check-manifest
 	@echo "📚 Stitching Markdown from $(MANIFEST) → $(OUTFILE)"

@@ -1,48 +1,51 @@
-# Chapter 13 — Communication & Coordination
+# Chapter 13 — Communications
 
-Effective communication is the invisible thread that holds a chain crew together. While the physical work happens on the field during games, much of a crew's success depends on coordination that begins weeks before kickoff. Clear communication protocols prevent game-day chaos, ensure crew availability, and maintain the professional standards that referees and athletic directors expect.
+Well-managed **chain crews** stay that way through clear communications. This doesn't mean just communication on the field, but almost as importantly, communication off the field and behind the scenes.
 
----
+Crew communication matters during games and between games.
 
-## Pre-Season Communication
+## Between Game Communications
 
-[Content about scheduling, crew availability, equipment coordination, and pre-season planning will go here.]
+The chain gang leader should maintain an email and text list of all chain gang members, including backups, so the team can communicate quickly about plans, changes, assignments, and schedules.
 
----
+However this level of communication extends further than just the **chain crew**. 
 
-## Email Communication Standards
+Communication also extends beyond the chain crew and involves the **athletic director (AD)** and the officiating organization. A visiting headlinesman may arrive already expecting a professional crew because the AD has described the crew’s experience in advance. The athletic director uses email to communicate with officiating organizations and arrange for them to officiate home games. In some cases, the AD highlights the chain gang’s years of experience to encourage organizations to accept assignments. When officials arrive and find an organized chain crew that knows what to do, they often express relief compared to less prepared high school crews they have worked with in the past.
 
-[Content about email protocols, response times, confirmation procedures, and professional email practices will go here.]
+This upward communication lets the athletic director confidently tell officiating organizations, ‘We’ve got the chain covered.’
 
-### SIDEBAR: From the Sideline — [First Email Anecdote Title]
 
-[First email communication sidebar anecdote will go here. This will be a story about email communication, written in past tense, third person.]
+Texts are important for immediacy. The game will go on, and the chain crew must be ready for last-minute changes.
 
-<!-- end-sidebar -->
+For example, our AD once needed uniform sizes to order shirts for the chain crew. An email went unread by some members, but a follow-up text reached everyone in time.
 
-### SIDEBAR: From the Sideline — [Second Email Anecdote Title]
-
-[Second email communication sidebar anecdote will go here. This will be another story about email communication, written in past tense, third person.]
-
-<!-- end-sidebar -->
-
----
-
-## Game-Day Communication
-
-[Content about in-game coordination, post-game debriefs, and real-time communication will go here.]
-
----
-
-**Pro Tip:** [Pro Tip about communication will go here. This should be practical, actionable advice related to crew communication.]
+**Pro Tip:** Be sure to CC: the AD on important crew emails. Do not overwhelm the AD, but important emails can keep the AD updated and able to respond in time to make changes.
 
 <!-- end-protip -->
 
+## During Game Communications
+
+During a game, almost all crew communication is verbal. Clear voice commands and alerts keep the crew together while they perform their duties. This includes the pregame briefing with the officials and the ongoing communication between crew members during play.
+
 ---
 
-## Professional Standard
+### SIDEBAR: From the Sideline — Communication Standards
 
-[Landing sentence will go here. This should reinforce why communication matters for professionalism, safety, teamwork, or accuracy. Example: "Clear communication transforms a group of volunteers into a coordinated crew that officials can trust."]
+Our chain gang once overheard a **head linesman** say from the sideline, ‘I don’t ask for much, but when you speak to me, make sure it’s louder than the sidelines.’ Lesson learned.
 
-[Optional transition sentence to next chapter will go here if needed.]
+<!-- end-sidebar -->
 
+---
+
+### SIDEBAR: From the Sideline — Five-Stars
+
+We'd been communicating for a while on the email list, and one of our members, the box boy, used his professional email with a big signature at the bottom of every message. The signature said something like, ‘Give me a rating’ or ‘Give me five stars’ for a Google rating. One game, one of the sticks wrote back, ‘I give him five stars!’ Then it became ‘Five and a half stars,’ then ‘Six stars.’ Now the joke is that our box boy is the five-star box boy—or maybe the six-star box boy. We’re still not sure.
+
+
+<!-- end-sidebar -->
+
+---
+
+Crews communicate before, during, after, and between games to protect safety, maintain accuracy, and show officials they’re working with a truly professional team—one they’re happy to say, ‘See you next game!’ to.
+
+This book communicated how a high-performing chain crew operates before and during games. It provides instruction, observations, and tips on being a good chain crew, one that represents the school with pride. And all of this just to be able to end with 'See you next game!'

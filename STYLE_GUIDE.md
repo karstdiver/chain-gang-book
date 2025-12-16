@@ -66,6 +66,7 @@ Each chapter must follow this structure:
 ## Transitions  
 - Where appropriate, end each chapter with a **transition sentence** to the next chapter.  
 - Example: *"With responsibilities defined, the next step is to examine the equipment that makes the chain gang's work possible."*  
+- **Note:** Final chapters may end with a book-level conclusion instead of a transition to the next chapter.
 
 ---
 

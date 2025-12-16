@@ -129,9 +129,13 @@ The clip plays a crucial role as the final element in the cadence. It follows th
 
 ### Cadence Disruptions
 
+Distruptions during game play cause the crew to stop and then restart the cadence.
+
 The cadence can be disrupted by several factors:
 
-- **Penalties:** What we refer to as encroachment on the chain gang.
+- **Whistles** Any stoppage in play changes the cadence rhythm.
+- **Timeouts** Team called and injury timeouts stop play.
+- **Penalties:** Fouls and infractions stop play and required the crew to wait and follow the Referree's instruction.
 - **Change of quarter:** Natural break in the rhythm  
 - **Measurements:** Required pause in operations.
 - **Rapid first downs:** Quick succession of plays.
@@ -142,6 +146,9 @@ The cadence can be disrupted by several factors:
 
 The highest-performing crews execute the cadence quickly, efficiently, and silently. They move as one unit, each member knowing their role and timing. When you watch a game, look for this cadence—or the lack of it. If the gang is out of tune, see Chapter 5 for away game procedures.
 
+High-performance crews restart the cadence quickly and efficently after a distruption. This means the crew (espcially the box) pays attention to the offcials to anticipate when and where to restart.
+
+**Pro Tip:** Don't get stiff during long stops. Not only does it hurt it also hurts the crew's efficent restarts.
 ---
 
 ### SIDEBAR: From the Sideline — The Orchestra of the Chains

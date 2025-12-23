@@ -23,13 +23,13 @@ help:
 	@echo "  docx    - Build Word/Pages version"
 	@echo "  clean   - Remove LaTeX build artifacts"
 
-draft:
+draft: fullbookmd
 	pandoc $(MD) -o exports/pdf/$(TITLE)_draft.pdf \
 	  --from markdown \
 	  --toc --number-sections \
 	  --pdf-engine=$(PDF_ENGINE)
 
-pdf:
+pdf: fullbookmd
 	pandoc $(MD) -o exports/pdf/$(TITLE).pdf \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
@@ -39,7 +39,7 @@ pdf:
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
 
-epub:
+epub: fullbookmd
 	pandoc $(MD) -o exports/epub/$(TITLE).epub \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
@@ -47,7 +47,7 @@ epub:
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
 
-docx:
+docx: fullbookmd
 	pandoc $(MD) -o exports/docx/$(TITLE).docx \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \

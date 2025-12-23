@@ -48,6 +48,18 @@ epub: fullbookmd
 	  -M author="Richard Kallay"
 
 docx: fullbookmd
+	@# Ensure reference.docx exists and is non-empty before calling Pandoc
+	@test -s "$(REFDOCX)" || { \
+	  echo "❌ DOCX build requires a non-empty reference DOCX at $(REFDOCX)."; \
+	  echo "   TODO: Create a clean reference.docx with styles only."; \
+	  echo "   Suggested workflow:"; \
+	  echo "     1) Run: pandoc $(MD) -o /tmp/default-ref.docx --from markdown+implicit_figures --toc --number-sections"; \
+	  echo "     2) Open /tmp/default-ref.docx in Word/LibreOffice."; \
+	  echo "     3) Delete all book body text, but keep styles (Normal, Heading 1/2/3, etc.)."; \
+	  echo "     4) Save it as $(REFDOCX)."; \
+	  echo "   Alternatively, remove --reference-doc from the docx target to use Pandoc's default styles."; \
+	  exit 1; \
+	}
 	pandoc $(MD) -o exports/docx/$(TITLE).docx \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \

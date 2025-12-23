@@ -24,12 +24,16 @@ help:
 	@echo "  clean   - Remove LaTeX build artifacts"
 
 draft: fullbookmd
+	@echo "📝 Building draft PDF → exports/pdf/$(TITLE)_draft.pdf"
 	pandoc $(MD) -o exports/pdf/$(TITLE)_draft.pdf \
 	  --from markdown \
 	  --toc --number-sections \
 	  --pdf-engine=$(PDF_ENGINE)
+	@echo "✅ Wrote exports/pdf/$(TITLE)_draft.pdf"
+	@ls -lh "exports/pdf/$(TITLE)_draft.pdf" || true
 
 pdf: fullbookmd
+	@echo "🖨  Building styled PDF → exports/pdf/$(TITLE).pdf"
 	pandoc $(MD) -o exports/pdf/$(TITLE).pdf \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
@@ -38,14 +42,19 @@ pdf: fullbookmd
 	  --lua-filter=$(LUAFILTER) \
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
+	@echo "✅ Wrote exports/pdf/$(TITLE).pdf"
+	@ls -lh "exports/pdf/$(TITLE).pdf" || true
 
 epub: fullbookmd
+	@echo "📚 Building EPUB → exports/epub/$(TITLE).epub"
 	pandoc $(MD) -o exports/epub/$(TITLE).epub \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
 	  --lua-filter=$(LUAFILTER) \
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
+	@echo "✅ Wrote exports/epub/$(TITLE).epub"
+	@ls -lh "exports/epub/$(TITLE).epub" || true
 
 docx: fullbookmd
 	@# Ensure reference.docx exists and is non-empty before calling Pandoc
@@ -65,6 +74,8 @@ docx: fullbookmd
 	  --toc --number-sections \
 	  --reference-doc=$(REFDOCX) \
 	  --lua-filter=$(LUAFILTER)
+	@echo "✅ Wrote exports/docx/$(TITLE).docx"
+	@ls -lh "exports/docx/$(TITLE).docx" || true
 
 showpdf: pdf
 	open exports/pdf/$(TITLE).pdf
@@ -123,3 +134,4 @@ fullbookmd: check-manifest
 	    close(file); \
 	  }' "$(MANIFEST)" > "$(OUTFILE)"
 	@echo "✅ Wrote $(OUTFILE)"
+	@ls -lh "$(OUTFILE)" || true

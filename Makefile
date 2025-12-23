@@ -23,13 +23,17 @@ help:
 	@echo "  docx    - Build Word/Pages version"
 	@echo "  clean   - Remove LaTeX build artifacts"
 
-draft:
+draft: fullbookmd
+	@echo "📝 Building draft PDF → exports/pdf/$(TITLE)_draft.pdf"
 	pandoc $(MD) -o exports/pdf/$(TITLE)_draft.pdf \
 	  --from markdown \
 	  --toc --number-sections \
 	  --pdf-engine=$(PDF_ENGINE)
+	@echo "✅ Wrote exports/pdf/$(TITLE)_draft.pdf"
+	@ls -lh "exports/pdf/$(TITLE)_draft.pdf" || true
 
-pdf:
+pdf: fullbookmd
+	@echo "🖨  Building styled PDF → exports/pdf/$(TITLE).pdf"
 	pandoc $(MD) -o exports/pdf/$(TITLE).pdf \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
@@ -38,21 +42,40 @@ pdf:
 	  --lua-filter=$(LUAFILTER) \
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
+	@echo "✅ Wrote exports/pdf/$(TITLE).pdf"
+	@ls -lh "exports/pdf/$(TITLE).pdf" || true
 
-epub:
+epub: fullbookmd
+	@echo "📚 Building EPUB → exports/epub/$(TITLE).epub"
 	pandoc $(MD) -o exports/epub/$(TITLE).epub \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
 	  --lua-filter=$(LUAFILTER) \
 	  -M title="Friday Night Chains" \
 	  -M author="Richard Kallay"
+	@echo "✅ Wrote exports/epub/$(TITLE).epub"
+	@ls -lh "exports/epub/$(TITLE).epub" || true
 
-docx:
+docx: fullbookmd
+	@# Ensure reference.docx exists and is non-empty before calling Pandoc
+	@test -s "$(REFDOCX)" || { \
+	  echo "❌ DOCX build requires a non-empty reference DOCX at $(REFDOCX)."; \
+	  echo "   TODO: Create a clean reference.docx with styles only."; \
+	  echo "   Suggested workflow:"; \
+	  echo "     1) Run: pandoc $(MD) -o /tmp/default-ref.docx --from markdown+implicit_figures --toc --number-sections"; \
+	  echo "     2) Open /tmp/default-ref.docx in Word/LibreOffice."; \
+	  echo "     3) Delete all book body text, but keep styles (Normal, Heading 1/2/3, etc.)."; \
+	  echo "     4) Save it as $(REFDOCX)."; \
+	  echo "   Alternatively, remove --reference-doc from the docx target to use Pandoc's default styles."; \
+	  exit 1; \
+	}
 	pandoc $(MD) -o exports/docx/$(TITLE).docx \
 	  --from markdown+implicit_figures \
 	  --toc --number-sections \
 	  --reference-doc=$(REFDOCX) \
 	  --lua-filter=$(LUAFILTER)
+	@echo "✅ Wrote exports/docx/$(TITLE).docx"
+	@ls -lh "exports/docx/$(TITLE).docx" || true
 
 showpdf: pdf
 	open exports/pdf/$(TITLE).pdf
@@ -111,3 +134,4 @@ fullbookmd: check-manifest
 	    close(file); \
 	  }' "$(MANIFEST)" > "$(OUTFILE)"
 	@echo "✅ Wrote $(OUTFILE)"
+	@ls -lh "$(OUTFILE)" || true

@@ -1,40 +1,56 @@
-# Build outputs
+# =============================================================================
+# Chain Gang Book — generated outputs (see Makefile: make fullbookmd, pdf, …)
+# =============================================================================
 manuscript/book.md
+manuscript/book.txt
 exports/
+scripts/exports/
 
-# LaTeX / Pandoc temp files
+# =============================================================================
+# Local planning / scratch (outline lists, directory dumps)
+# =============================================================================
+*-list.txt
+directory-structure.txt
+
+# =============================================================================
+# Superseded drafts and backups (edit manuscript/chapters/*.md instead)
+# =============================================================================
+manuscript/chapters/old-*.md
+manuscript/frontmatter/old-*.md
+old-STYLE_GUIDE.md
+
+# =============================================================================
+# LaTeX / Pandoc temporary files
+# =============================================================================
 *.aux
 *.log
 *.out
 *.toc
-
-# Temporary files
-*.tmp
-*.temp
-junk*
-
-# LaTeX build files (if using LaTeX)
-*.aux
-*.toc
-*.out
-*.log
-*.pdf
+*.nav
+*.snm
+*.synctex.gz
 *.dvi
 *.ps
 
-# Word processor temp files
+# Built PDFs outside exports/ (e.g. accidental pandoc output in repo root)
+*.pdf
+
+# =============================================================================
+# Editor and OS cruft
+# =============================================================================
+.DS_Store
+Thumbs.db
 ~$*
 *.swp
 *.swo
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor configs
+*~
 .vscode/
 .idea/
+.cursor/
 
-# Backup files
-*~
-
+# =============================================================================
+# Misc temporary files
+# =============================================================================
+*.tmp
+*.temp
+junk*

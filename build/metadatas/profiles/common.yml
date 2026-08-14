@@ -1,0 +1,48 @@
+---
+# =============================================================================
+# Chain Gang Book — build metadata (Pandoc + Makefile)
+# =============================================================================
+# Used by:  pandoc --metadata-file=build/metadata.yml
+# Makefile: METADATA, PROFILE, PUBLISHER (future overlays)
+# Do not edit build/book.md — that file is stitched from the manifest.
+
+# --- Pandoc document metadata (pdf/epub/docx; book.tex.tpl reads these) ---
+title: Friday Night Chains
+subtitle: A Practical Guide for High School Football Chain Crews
+author:
+  - Richard Kallay
+lang: en-US
+date: 2026-05-26
+rights: "© 2026 Richard Kallay. Licensed CC BY 4.0."
+
+# --- Structure (today duplicated on pandoc CLI as --toc --number-sections) ---
+toc: true
+number-sections: true
+toc-depth: 3
+
+# --- Discovery / EPUB OPF (optional but useful) ---
+description: |
+  A practical guide to high school football chain crews — roles,
+  responsibilities, equipment, safety, and professionalism on Friday night.
+keywords:
+  - chain gang
+  - football officiating
+  - sideline crew
+  - high school football
+
+# --- Makefile / export filenames (custom key — Pandoc ignores unless you use it) ---
+# Future: TITLE := $(shell yq -r '.slug' $(METADATA))
+slug: chain-gang-book
+
+# --- Build context (sidecar — for you, validate, docs; not used by Pandoc today) ---
+profile: fullbook          # mirrors make PROFILE=fullbook
+publisher: common          # mirrors make PUBLISHER=common
+
+# --- Assets (when you add covers; paths relative to repo root) ---
+# cover-image: assets/covers/chain-gang-cover.jpg
+
+# --- Identifier (fill when you have ISBN / UUID per edition) ---
+# identifier:
+#   - scheme: ISBN-13
+#     text: "978-0-0000000-0-0"
+---

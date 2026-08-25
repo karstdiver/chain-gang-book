@@ -1,4 +1,5 @@
 # Front matter
+manuscript/frontmatter/title-page.md
 manuscript/frontmatter/preface.md
 manuscript/frontmatter/acknowledgements.md
 

@@ -12,7 +12,7 @@ organized, please follow the guidelines below.
   It is generated from source files listed in `build/manifests/manifest-<profile>.txt`.
 
 - **Edit source files only:**  
-  - `manuscript/frontmatter/` → Preface, acknowledgements, TOC  
+  - `manuscript/frontmatter/` → Title page, preface, acknowledgements, TOC  
   - `manuscript/chapters/` → Chapters 1–12  
   - `manuscript/appendices/` → Appendices A–I  
   - `manuscript/conclusion.md` → Wrap-up  

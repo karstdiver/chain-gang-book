@@ -136,7 +136,8 @@ epub: fullbookmd
 	pandoc $(MD) -o $(EXPORT_DIR)/epub/$(TITLE).epub \
 	  $(METADATA_FLAGS) \
 	  --from markdown+implicit_figures \
-	  --lua-filter=$(LUAFILTER)
+	  --lua-filter=$(LUAFILTER) \
+	  --epub-title-page=false
 	@echo "✅ Wrote $(EXPORT_DIR)/epub/$(TITLE).epub"
 	@ls -lh "$(EXPORT_DIR)/epub/$(TITLE).epub" || true
 

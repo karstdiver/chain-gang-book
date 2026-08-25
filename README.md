@@ -24,7 +24,7 @@ chain-gang-book/
 │   ├── metadatas/           # Layered metadata (profiles + publishers)
 │   │   ├── profiles/
 │   │   └── publishers/
-│   └── book.md              # Generated stitched book (do not edit directly)
+│   └── book.md              # Generated stitched book (do not edit; gitignored)
 ├── exports/                 # Built outputs (PDF, EPUB, DOCX, etc.)
 ├── Makefile                 # Build automation
 ├── .gitignore               # Git ignore rules
@@ -55,7 +55,7 @@ make fullbookmd PROFILE=proof
 The manifest file defines which `.md` parts are included and in what order.  
 For example: `build/manifests/manifest-fullbook.txt`.
 
-The stitched output is written to `build/book.md`.
+The stitched output is written to `build/book.md` (generated locally; not committed).
 
 ### Metadata Layering
 

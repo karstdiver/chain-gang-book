@@ -3,6 +3,7 @@
 # =============================================================================
 manuscript/book.md
 manuscript/book.txt
+build/book.md
 exports/
 scripts/exports/
 

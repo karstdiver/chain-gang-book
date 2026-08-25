@@ -38,8 +38,9 @@ slug: chain-gang-book
 profile: fullbook          # mirrors make PROFILE=fullbook
 publisher: common          # mirrors make PUBLISHER=common
 
-# --- Assets (when you add covers; paths relative to repo root) ---
-# cover-image: assets/covers/chain-gang-cover.jpg
+# --- Assets (paths relative to repo root; used by EPUB today) ---
+# Replace this JPEG with final art when ready; keep the path stable.
+cover-image: assets/covers/chain-gang-cover.jpg
 
 # --- Identifier (fill when you have ISBN / UUID per edition) ---
 # identifier:

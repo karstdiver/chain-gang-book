@@ -38,7 +38,7 @@ slug: chain-gang-book
 profile: fullbook          # mirrors make PROFILE=fullbook
 publisher: common          # mirrors make PUBLISHER=common
 
-# --- Assets (paths relative to repo root; used by EPUB today) ---
+# --- Assets (paths relative to repo root; EPUB cover + PDF page 1) ---
 # Replace this JPEG with final art when ready; keep the path stable.
 cover-image: assets/covers/chain-gang-cover.jpg
 

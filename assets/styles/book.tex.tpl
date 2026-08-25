@@ -43,6 +43,18 @@ $endif$
 
 \begin{document}
 
+% Cover page (same asset as EPUB cover-image). Title page follows via \maketitle.
+% Later: replace \maketitle with manuscript/frontmatter/title-page.md in the manifest.
+$if(cover-image)$
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=\textwidth,height=0.92\textheight,keepaspectratio]{$cover-image$}
+\vspace*{\fill}
+\end{center}
+\clearpage
+$endif$
+
 $if(title)$
 \maketitle
 $endif$

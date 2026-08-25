@@ -93,6 +93,9 @@ help:
 	@echo ""
 	@echo "Targets:"
 	@echo "  help       - Show this help message"
+	@echo "  workflow   - Print edit/build/PR memory jogger (aliases: howto, edit)"
+	@echo "  howto      - Same as workflow"
+	@echo "  edit       - Same as workflow"
 	@echo "  show       - Display and check on book build files"
 	@echo "  fullbookmd - Stitch together into book.md"
 	@echo "  validate   - Run validation checks (placeholder - TODO)"
@@ -101,6 +104,7 @@ help:
 	@echo "  showpdf - Build PDF and open in default viewer"
 	@echo "  epub    - Build EPUB for Apple Books / Kindle"
 	@echo "  docx    - Build Word/Pages version"
+	@echo "  all     - Build pdf, epub, and docx (stops on first failure)"
 	@echo "  clean   - Remove LaTeX build artifacts"
 	@echo ""
 	@echo "Hints:"
@@ -110,6 +114,57 @@ help:
 	@echo "  publisher manifest lists are in $(METADATA_DIR)/$(PUBLISHER_DIR)"
 	@echo "  stitched book file is $(STITCHED_FILE)"
 	@echo "  output books are in $(EXPORT_DIR)"
+
+# Print-only checklist for returning to edit this book (does not run any of these steps).
+workflow howto edit:
+	@echo ""
+	@echo "Chain Gang Book — edit workflow (memory jogger only)"
+	@echo "===================================================="
+	@echo "This target only prints hints. It does not run git, editors, or builds."
+	@echo ""
+	@echo "  1. Check git status"
+	@echo "       git status"
+	@echo ""
+	@echo "  2. Create a new branch from main"
+	@echo "       git checkout main && git pull"
+	@echo "       git checkout -b short-description-of-change"
+	@echo ""
+	@echo "  3. Go to the chapter (or frontmatter) source"
+	@echo "       cd $(MANUSCRIPT_DIR)/chapters"
+	@echo "       # or: cd $(MANUSCRIPT_DIR)/frontmatter"
+	@echo ""
+	@echo "  4. Edit the file"
+	@echo "       vi chapterN.md"
+	@echo ""
+	@echo "  5. Build and review"
+	@echo "       make pdf"
+	@echo "       make epub"
+	@echo "       # open exports and check the result"
+	@echo ""
+	@echo "  6. Commit"
+	@echo "       git add … && git commit"
+	@echo ""
+	@echo "  7. Push the branch"
+	@echo "       git push -u origin HEAD"
+	@echo ""
+	@echo "  8. Open a pull request"
+	@echo "       gh pr create   # or use GitHub’s compare URL"
+	@echo ""
+	@echo "  9. Merge the PR"
+	@echo "       gh pr merge"
+	@echo ""
+	@echo " 10. Sync local main"
+	@echo "       git checkout main && git pull"
+	@echo ""
+	@echo " 11. Rebuild outputs and find the files in exports/"
+	@echo "       make all"
+	@echo "       ls -lh $(EXPORT_DIR)/pdf $(EXPORT_DIR)/epub $(EXPORT_DIR)/docx"
+	@echo ""
+	@echo "Useful paths:"
+	@echo "  manuscript : $(MANUSCRIPT_DIR)/"
+	@echo "  manifest   : $(MANIFEST)"
+	@echo "  exports    : $(EXPORT_DIR)/"
+	@echo ""
 
 draft: fullbookmd
 	@echo "📝 Building draft PDF → $(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf"
@@ -162,6 +217,11 @@ docx: fullbookmd
 	@echo "✅ Wrote $(EXPORT_DIR)/docx/$(TITLE).docx"
 	@ls -lh "$(EXPORT_DIR)/docx/$(TITLE).docx" || true
 
+# Build all publishable formats (stops on first failure).
+all: pdf epub docx
+	@echo "✅ all: wrote pdf, epub, and docx under $(EXPORT_DIR)/"
+	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE).pdf" "$(EXPORT_DIR)/epub/$(TITLE).epub" "$(EXPORT_DIR)/docx/$(TITLE).docx" || true
+
 showpdf: pdf
 	open $(EXPORT_DIR)/pdf/$(TITLE).pdf
 
@@ -175,7 +235,7 @@ clean:
 #   make show-manifest               # prints which manifest will be used
 
 
-.PHONY: help clean showpdf fullbookmd show show-title show-profile show-manifest show-metadata check check-manifest check-metadata validate
+.PHONY: help workflow howto edit clean showpdf fullbookmd show show-title show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
 
 
 show: show-title show-profile show-manifest check-manifest show-metadata check-metadata

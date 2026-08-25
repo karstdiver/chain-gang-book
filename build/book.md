@@ -252,6 +252,7 @@ The highest-performing crews execute the cadence quickly, efficiently, and silen
 High-performance crews restart the cadence quickly and efficently after a distruption. This means the crew (espcially the box) pays attention to the offcials to anticipate when and where to restart.
 
 **Pro Tip:** Don't get stiff during long stops. Not only does it hurt it also hurts the crew's efficent restarts.
+
 ---
 
 ### SIDEBAR: From the Sideline — The Orchestra of the Chains
@@ -267,7 +268,7 @@ The contrast was striking when we worked with a less experienced crew the follow
 ### SIDEBAR: From the Sideline — Communication Standards
 
 Our chain gang overheard a head linesman from the sidelines. He said, "I don't ask for much, but when you speak to me, make sure it's louder than the sidelines." Lesson learned.
-.
+
 <!-- end-sidebar -->
 
 ---

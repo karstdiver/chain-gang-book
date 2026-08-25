@@ -1,0 +1,19 @@
+---
+# Pandoc-visible overrides for this channel
+description: |
+  Short KDP-oriented blurb (keep under store limits).
+keywords:
+  - chain gang
+  - Friday night football
+  - sideline volunteer
+
+# EPUB when you add a cover per store
+# cover-image: assets/covers/chain-gang-amazon.jpg
+
+# Sidecar — KDP web UI still needs these; YAML is your checklist
+publisher: amazon
+kdp-categories:
+  - "Sports & Recreation / Football"
+  - "Education / Teaching"
+upload-notes: "Upload exports/epub/chain-gang-book-amazon.epub if using publisher suffix"
+---

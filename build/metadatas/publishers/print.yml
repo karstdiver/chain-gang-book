@@ -1,0 +1,9 @@
+---
+# If your LaTeX template later reads custom variables:
+# geometry: margin=0.75in
+# documentclass: book
+
+publisher: print
+print-vendor: "Ingram / local print shop"
+trim-size: "6 x 9 in"
+---

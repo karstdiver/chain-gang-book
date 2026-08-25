@@ -8,16 +8,31 @@ organized, please follow the guidelines below.
 
 ## 🔄 **Typical Git Workflow for Book Development**
 
-- **Do not edit `manuscript/book.md` directly.**  
-  It is generated from individual chapter and appendix files using the Makefile.  
+- **Do not edit `build/book.md` directly.**
+  It is generated from source files listed in `build/manifests/manifest-<profile>.txt`.
 
 - **Edit source files only:**  
   - `manuscript/frontmatter/` → Preface, acknowledgements, TOC  
   - `manuscript/chapters/` → Chapters 1–12  
   - `manuscript/appendices/` → Appendices A–I  
   - `manuscript/conclusion.md` → Wrap-up  
+  - `manuscript/overtime.md` → Overtime chapter
 
-- Run `make fullbookmd` to stitch everything into `book.md`.
+- Build inputs are in `build/`:
+  - `build/manifests/` → chapter/file assembly order by profile
+  - `build/metadatas/profiles/` → shared and profile metadata
+  - `build/metadatas/publishers/` → publisher-specific metadata overlays
+
+- Run `make fullbookmd` to stitch everything into `build/book.md`.
+
+### **Build Modes (Profile + Publisher):**
+```bash
+# Show active profile/publisher plus manifest/metadata checks
+make show PROFILE=fullbook PUBLISHER=common
+
+# Build using profile-specific content and publisher metadata layering
+make epub PROFILE=fullbook PUBLISHER=amazon
+```
 
 
 ### **Daily Writing Workflow:**
@@ -52,7 +67,7 @@ git checkout main
 git merge chapter-4
 ```
 
-## �� **Cursor Features for Book Writing**
+## Cursor Features for Book Writing
 
 - **Markdown support** - Great for structured writing
 - **Git integration** - Built-in source control

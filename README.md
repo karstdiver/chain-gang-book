@@ -13,11 +13,18 @@ the book in multiple formats (Markdown, PDF, EPUB, DOCX).
 
 ```
 chain-gang-book/
-├── manuscript/              # Main source content
+├── manuscript/              # Human-written source content
 │   ├── frontmatter/         # Preface, acknowledgements, TOC
-│   ├── chapters/            # Chapters 1–12
-│   ├── appendices/          # Appendices A–I
-│   └── conclusion.md        # Wrap-up
+│   ├── chapters/            # Chapter source files
+│   ├── appendices/          # Appendix source files
+│   ├── conclusion.md
+│   └── overtime.md
+├── build/                   # Build inputs and generated stitched manuscript
+│   ├── manifests/           # Assembly order by profile (manifest-<profile>.txt)
+│   ├── metadatas/           # Layered metadata (profiles + publishers)
+│   │   ├── profiles/
+│   │   └── publishers/
+│   └── book.md              # Generated stitched book (do not edit directly)
 ├── exports/                 # Built outputs (PDF, EPUB, DOCX, etc.)
 ├── Makefile                 # Build automation
 ├── .gitignore               # Git ignore rules
@@ -29,11 +36,11 @@ chain-gang-book/
 
 ## Build Instructions
 
-This repo uses a **manifest + Makefile** system to stitch together the book.  
+This repo uses a **manifest + metadata + Makefile** system to build the book.
 
 ### Stitch into `book.md`
 
-Default profile (`main`):
+Default profile (`fullbook`):
 
 ```bash
 make fullbookmd
@@ -46,15 +53,30 @@ make fullbookmd PROFILE=proof
 ```
 
 The manifest file defines which `.md` parts are included and in what order.  
-For example: `manuscript/manifest-main.txt`.
+For example: `build/manifests/manifest-fullbook.txt`.
 
-### Export Formats (coming soon)
+The stitched output is written to `build/book.md`.
 
-Planned targets for `make`:
-- `make draft` → Quick combined Markdown into `manuscript/book.md`
-- `make pdf`   → Polished PDF into `exports/book.pdf` (via Pandoc/LaTeX)
-- `make epub`  → EPUB format for e-readers
-- `make docx`  → Word format for editors
+### Metadata Layering
+
+Build metadata is layered from:
+- `build/metadatas/profiles/common.yml`
+- `build/metadatas/profiles/<PROFILE>.yml`
+- `build/metadatas/publishers/<PUBLISHER>.yml`
+
+Use the CLI to choose profile and publisher:
+
+```bash
+make show PROFILE=fullbook PUBLISHER=common
+make epub PROFILE=fullbook PUBLISHER=amazon
+```
+
+### Export Formats
+
+- `make draft` → quick PDF in `exports/pdf/chain-gang-book_draft.pdf`
+- `make pdf`   → styled PDF in `exports/pdf/chain-gang-book.pdf`
+- `make epub`  → EPUB in `exports/epub/chain-gang-book.epub`
+- `make docx`  → DOCX in `exports/docx/chain-gang-book.docx`
 
 ---
 

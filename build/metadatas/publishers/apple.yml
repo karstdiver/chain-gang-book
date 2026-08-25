@@ -1,0 +1,11 @@
+---
+description: |
+  Blurb for Apple Books / Books Connect (may differ in length/tone from Amazon).
+
+# cover-image: assets/covers/chain-gang-apple.jpg
+
+publisher: apple
+apple-subjects:
+  - SPORTS_AND_RECREATION
+  - EDUCATION
+---

@@ -1,0 +1,18 @@
+---
+# =============================================================================
+# Chain Gang Book — build metadata (Pandoc + Makefile) for fullbook profile
+# =============================================================================
+# Used by:  pandoc --metadata-file=build/metadata.yml
+# Makefile: METADATA, PROFILE, PUBLISHER (future overlays)
+# Do not edit build/book.md — that file is stitched from the manifest.
+
+# --- Pandoc document metadata (pdf/epub/docx; book.tex.tpl reads these) ---
+
+# --- Build context (sidecar — for you, validate, docs; not used by Pandoc today) ---
+profile: fullbook          # mirrors make PROFILE=fullbook
+#publisher: common          # mirrors make PUBLISHER=common
+
+# --- Assets (when you add covers; paths relative to repo root) ---
+# cover-image: assets/covers/chain-gang-cover.jpg
+
+---

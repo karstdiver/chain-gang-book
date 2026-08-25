@@ -1,3 +1,61 @@
+# Friday Night Chains {.unnumbered .unlisted}
+
+::: center
+
+```{=latex}
+\vspace*{0.8cm}
+{\Large\itshape
+```
+
+A Practical Guide for High School Football  
+Chain Crews
+
+```{=latex}
+\par}
+\vspace{1.8cm}
+{\large
+```
+
+Richard Kallay
+
+```{=latex}
+\par}
+\vspace{2.6cm}
+\normalsize
+```
+
+**ISBN-13:** 978-0-000000-00-0
+
+*Placeholder — replace with the assigned ISBN when purchased*
+
+```{=latex}
+\vspace{2.0cm}
+```
+
+© 2026 Richard Kallay
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+```{=latex}
+\vspace{1.4cm}
+```
+
+*We work for the officials, not for the home team.*
+
+```{=latex}
+\vspace*{\fill}
+\clearpage
+```
+
+:::
+
+```{=latex}
+% TOC after title page, before preface (PDF only; EPUB uses nav from metadata toc: true)
+{\hypersetup{linkcolor=black}
+\tableofcontents
+\newpage}
+```
+
 # Preface
 
 Every Friday night, under the bright lights of a high school football field, 

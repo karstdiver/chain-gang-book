@@ -20,6 +20,9 @@ toc: true
 number-sections: true
 toc-depth: 3
 
+# Suppress Pandoc's auto EPUB title page; we use manuscript/frontmatter/title-page.md
+epub-title-page: false
+
 # --- Discovery / EPUB OPF (optional but useful) ---
 description: |
   A practical guide to high school football chain crews — roles,
@@ -42,8 +45,8 @@ publisher: common          # mirrors make PUBLISHER=common
 # Replace this JPEG with final art when ready; keep the path stable.
 cover-image: assets/covers/chain-gang-cover.jpg
 
-# --- Identifier (fill when you have ISBN / UUID per edition) ---
+# --- Identifier (fill when you have a real ISBN; also update title-page.md) ---
 # identifier:
 #   - scheme: ISBN-13
-#     text: "978-0-0000000-0-0"
+#     text: "978-0-000000-00-0"
 ---

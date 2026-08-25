@@ -43,8 +43,8 @@ $endif$
 
 \begin{document}
 
-% Cover page (same asset as EPUB cover-image). Title page follows via \maketitle.
-% Later: replace \maketitle with manuscript/frontmatter/title-page.md in the manifest.
+% Cover page uses metadata cover-image.
+% Title page + PDF TOC come from manuscript/frontmatter/title-page.md (first in the manifest).
 $if(cover-image)$
 \thispagestyle{empty}
 \begin{center}
@@ -53,16 +53,6 @@ $if(cover-image)$
 \vspace*{\fill}
 \end{center}
 \clearpage
-$endif$
-
-$if(title)$
-\maketitle
-$endif$
-
-$if(toc)$
-{\hypersetup{linkcolor=black}
-\tableofcontents
-\newpage}
 $endif$
 
 $body$

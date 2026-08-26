@@ -81,6 +81,7 @@ PDF_ENGINE=xelatex
 # Helper scripts
 SCRIPTS_DIR := scripts
 REPO_STATUS_SCRIPT := $(SCRIPTS_DIR)/repo-status.sh
+VALIDATE_SCRIPT := $(SCRIPTS_DIR)/validate.sh
 
 # Default target
 help:
@@ -104,7 +105,7 @@ help:
 	@echo "  edit        - Same as workflow"
 	@echo "  show        - Display and check on book build files"
 	@echo "  fullbookmd  - Stitch together into book.md"
-	@echo "  validate    - Run validation checks (placeholder - TODO)"
+	@echo "  validate    - Broken-book checks (manifest/assets; not style lint)"
 	@echo "  draft       - Quick PDF build (no template/filters, for proofing)"
 	@echo "  pdf         - Build print-ready PDF (styled)"
 	@echo "  showpdf     - Build PDF and open in default viewer"
@@ -292,13 +293,11 @@ check-metadata:
 	  }; \
 	done
 
-# Validation (placeholder - to be implemented)
-# See BUILD_VALIDATION_ANALYSIS.md for implementation plan
-validate:
-	@echo "⚠️  Validation is planned but not yet implemented."
-	@echo "   This will check manifest structure, image references, and chapter formatting."
-	@echo "   See BUILD_VALIDATION_ANALYSIS.md for details."
-	@exit 0
+# Broken-book checks only (script grows incrementally; not prose/style lint).
+# Composes existing manifest/metadata checks, then runs scripts/validate.sh.
+validate: check-manifest check-metadata
+	@test -x "$(VALIDATE_SCRIPT)" || chmod +x "$(VALIDATE_SCRIPT)"
+	@"$(VALIDATE_SCRIPT)"
 
 fullbookmd: show
 	@echo "📚 Stitching Markdown from $(MANIFEST) → $(STITCHED_FILE)"

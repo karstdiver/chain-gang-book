@@ -78,6 +78,10 @@ REFDOCX   = $(ASSET_DIR)/$(STYLE_DIR)/reference.docx
 
 PDF_ENGINE=xelatex
 
+# Helper scripts
+SCRIPTS_DIR := scripts
+REPO_STATUS_SCRIPT := $(SCRIPTS_DIR)/repo-status.sh
+
 # Default target
 help:
 	@echo "Chain Gang Book Makefile"
@@ -92,28 +96,36 @@ help:
 	@echo "$ make epub PROFILE=fullbook PUBLISHER=amazon"
 	@echo ""
 	@echo "Targets:"
-	@echo "  help       - Show this help message"
-	@echo "  workflow   - Print edit/build/PR memory jogger (aliases: howto, edit)"
-	@echo "  howto      - Same as workflow"
-	@echo "  edit       - Same as workflow"
-	@echo "  show       - Display and check on book build files"
-	@echo "  fullbookmd - Stitch together into book.md"
-	@echo "  validate   - Run validation checks (placeholder - TODO)"
-	@echo "  draft   - Quick PDF build (no template/filters, for proofing)"
-	@echo "  pdf     - Build print-ready PDF (styled)"
-	@echo "  showpdf - Build PDF and open in default viewer"
-	@echo "  epub    - Build EPUB for Apple Books / Kindle"
-	@echo "  docx    - Build Word/Pages version"
-	@echo "  all     - Build pdf, epub, and docx (stops on first failure)"
-	@echo "  clean   - Remove LaTeX build artifacts"
+	@echo "  help        - Show this help message"
+	@echo "  repo-status - Explain git branch/sync/auth (safe to edit?)"
+	@echo "  status      - Same as repo-status"
+	@echo "  workflow    - Print edit/build/PR memory jogger (aliases: howto, edit)"
+	@echo "  howto       - Same as workflow"
+	@echo "  edit        - Same as workflow"
+	@echo "  show        - Display and check on book build files"
+	@echo "  fullbookmd  - Stitch together into book.md"
+	@echo "  validate    - Run validation checks (placeholder - TODO)"
+	@echo "  draft       - Quick PDF build (no template/filters, for proofing)"
+	@echo "  pdf         - Build print-ready PDF (styled)"
+	@echo "  showpdf     - Build PDF and open in default viewer"
+	@echo "  epub        - Build EPUB for Apple Books / Kindle"
+	@echo "  docx        - Build Word/Pages version"
+	@echo "  all         - Build pdf, epub, and docx (stops on first failure)"
+	@echo "  clean       - Remove LaTeX build artifacts"
 	@echo ""
 	@echo "Hints:"
+	@echo "  Do this first:  make status workflow | more  # to check repo and see how to edit the book files"
 	@echo "  raw book files are in           $(MANUSCRIPT_DIR)"
 	@echo "  common manifest list are in     $(MANIFEST_DIR)"
 	@echo "  profile manifest lists are in   $(METADATA_DIR)/$(PROFILE_DIR)"
 	@echo "  publisher manifest lists are in $(METADATA_DIR)/$(PUBLISHER_DIR)"
 	@echo "  stitched book file is $(STITCHED_FILE)"
 	@echo "  output books are in $(EXPORT_DIR)"
+
+# Human-readable git status (script only reports; does not change the repo).
+repo-status status:
+	@test -x "$(REPO_STATUS_SCRIPT)" || chmod +x "$(REPO_STATUS_SCRIPT)"
+	@"$(REPO_STATUS_SCRIPT)"
 
 # Print-only checklist for returning to edit this book (does not run any of these steps).
 workflow howto edit:
@@ -122,8 +134,9 @@ workflow howto edit:
 	@echo "===================================================="
 	@echo "This target only prints hints. It does not run git, editors, or builds."
 	@echo ""
-	@echo "  1. Check git status"
-	@echo "       git status"
+	@echo "  1. Check repo status (branch / sync / safe to edit?)"
+	@echo "       make status"
+	@echo "       # or: make repo-status"
 	@echo ""
 	@echo "  2. Create a new branch from main"
 	@echo "       git checkout main && git pull"
@@ -235,7 +248,7 @@ clean:
 #   make show-manifest               # prints which manifest will be used
 
 
-.PHONY: help workflow howto edit clean showpdf fullbookmd show show-title show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
+.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
 
 
 show: show-title show-profile show-manifest check-manifest show-metadata check-metadata

@@ -133,8 +133,8 @@ Distruptions during game play cause the crew to stop and then restart the cadenc
 
 The cadence can be disrupted by several factors:
 
-- **Whistles** Any stoppage in play changes the cadence rhythm.
-- **Timeouts** Team called and injury timeouts stop play.
+- **Whistles**: Any stoppage in play changes the cadence rhythm.
+- **Timeouts**: Team called and injury timeouts stop play.
 - **Penalties:** Fouls and infractions stop play and required the crew to wait and follow the Referree's instruction.
 - **Change of quarter:** Natural break in the rhythm  
 - **Measurements:** Required pause in operations.

@@ -7,7 +7,7 @@ A football game begins long before the opening kickoff. For the chain gang, prof
 ## Crew Coordination  
 
 - **Confirm Attendance:** Contact each member of the chain crew earlier in the day. Last-minute absences are common, and substitutes may be needed.  
-- **Arrival Time:** Every member should be at the stadium at least 30 minutes before kickoff. This allows time for orientation, equipment checks, and referee briefing.  
+- **Arrival Time:** Every member should be at the stadium at least 30 minutes before kickoff. This allows time for orientation, equipment checks, and referee briefing. Ideally, the chain crew should be in place before the referees come onto the field. This makes an important first impression.
 - **Recruitment:** If short-handed, replacements must be secured before the referee meeting. Pulling volunteers out of the stands at kickoff should be a last resort.  
 
 ---
@@ -16,7 +16,7 @@ A football game begins long before the opening kickoff. For the chain gang, prof
 
 - **Down Box:** Cycle through downs 1–4 to confirm smooth operation. For LED boxes, ensure batteries are charged and a manual backup is available.  
 - **Sticks & Chain:** Verify the chain measures exactly 10 yards. Inspect links, padding, and visibility markings.  
-- **Clip(s):** Confirm at least one reliable clip is available. Professional crews carry two or three. Homemade clips are often sturdier than referee-issued ones.  
+- **Clip(s):** Confirm at least one reliable clip is available.
 
 ---
 
@@ -42,8 +42,16 @@ A football game begins long before the opening kickoff. For the chain gang, prof
 
 ## Special Case: Away Games  
 
-While most chain gang duties occur at home games, experienced crew members sometimes attend away games as spectators. If the visiting chain gang notices that the home team’s crew is understaffed or struggling, it can be helpful — with permission from the referees and athletic director — to offer assistance.  
+While most chain gang duties occur at home games, experienced crew members sometimes attend away games as spectators. If a visiting chain gang crew member notices that the home team’s crew is understaffed or struggling, it can be helpful — with permission from the referees and athletic director — to offer assistance.  
 This support keeps the game running smoothly and reflects well on both schools. Away-game volunteering should be seen as a professional courtesy, not as an obligation, and should always respect the home school’s authority.  
+
+
+### SIDEBAR: From the Sideline — Away Clip
+
+During one particular season a crew member kept being assigned to away-game chain gangs for various reasons. After hearing about two or three of these assignments, the rest of the crew presented him with his own clip. He now carries that clip to all the games, just in case. 
+<!-- end-sidebar -->
+
+if you might get pulled onto a road crew, carry your own clip.
 
 ---
 

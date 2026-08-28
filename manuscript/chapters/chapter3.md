@@ -92,7 +92,7 @@ accurate resets, quarter changes, and measurements.
 - *Three-clip system:* Rare but useful for crews wanting redundancy.  
 
 **Maintenance:**  
-- Carry spare clips. Homemade or custom versions can be sturdier than 
+- Carry spare clips. Purchased and customized versions can be sturdier and easier to use than 
   referee-issued ones.  
 - Include a basic chain repair kit (slip rings, spring clips) as part of 
   the clip operator's kit.  

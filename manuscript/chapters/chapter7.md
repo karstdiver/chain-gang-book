@@ -35,6 +35,10 @@ When a close call occurs, the sticks become the centerpiece of the game:
 This is a moment of high visibility. A calm, precise response reassures 
 referees and spectators alike.  
 
+**Pro Tip:** Wear or carry a pair of lightweight fingerless gloves to
+reduce hand fatigue from holding a stick all game.
+<!-- end-protip -->
+
 ---
 
 ## Storage and Transport

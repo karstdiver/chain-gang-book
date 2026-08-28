@@ -28,7 +28,7 @@ manuscript/appendices/appendixB.md
 manuscript/appendices/appendixC.md
 manuscript/appendices/appendixD.md
 manuscript/appendices/appendixE.md
-manuscript/appendices/appendixF.md
+#manuscript/appendices/appendixF.md # this is style-guideline text
 #manuscript/appendices/appendixG.md # moved into chapter 5
 #manuscript/appendices/appendixH.md # moved into chapter 11
 #manuscript/appendices/appendixI.md # moved into chapter 12

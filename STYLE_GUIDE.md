@@ -5,7 +5,9 @@
 This guide defines the **Markdown patterns** to use when drafting.  
 Consistent patterns = easier formatting later (PDF, EPUB, DOCX, LaTeX).
 
-This document defines the style rules for drafting, editing, and polishing the *Chain Crew Handbook*. All chapters, sidebars, and appendices must comply with these guidelines for consistency, clarity, and professionalism.  
+This document defines the style rules for drafting, editing, and polishing the *Chain Crew Handbook*. All chapters, sidebars, and appendices must comply with these guidelines for consistency, clarity, and professionalism.
+
+When this guide is silent on a prose question (punctuation, numerals, hyphenation, capitalization), follow *The Chicago Manual of Style*. This file is the source-language spec for Markdown patterns that control the rendered book. Chicago is the backstop for English, not a second rewrite of these patterns.
 
 ## Professional Standards Language  
 - Reinforce neutrality, professionalism, and safety throughout the text.  
@@ -156,14 +158,52 @@ Streamline appendices to be purely reference (checklists, templates, diagrams) โ
 ---
 
 ## 6. Lists and Checklists
-### 6.1 Lists  
-- Use bullet lists (`-`) for duties, responsibilities, and checklists.  
-- Use numbered lists only for step-by-step sequences.  
-- Use ordered lists for sequential tasks or procedures.  
-- Use unordered (bulleted) lists for qualities, tips, or non-ordered elements.  
+### 6.1 Lists
+- Use bullet lists (`-`) for duties, responsibilities, and checklists.
+- Use numbered lists only for step-by-step sequences.
+- Use ordered lists for sequential tasks or procedures.
+- Use unordered (bulleted) lists for qualities, tips, or non-ordered elements.
 - Keep list items parallel in structure (same tense and grammar style).
 
-### 6.2 Checklists
+### 6.2 List tightness (spacing in PDF, EPUB, and DOCX)
+
+Markdown treats list spacing as syntax. Pandoc renders a **tight** list (compact bullets) or a **loose** list (a blank line of space between every item). A blank line between any two items of the same list makes the **entire** list loose. Two spaces at the end of a line are a hidden hard line break and add a gap after that item even when the list is otherwise tight.
+
+**Do:**
+- Put consecutive items on consecutive lines. No blank line between items.
+- Wrap a long item with an indented continuation line, not a blank line.
+- Leave two trailing spaces on a list-item line only when you intend a hard line break *inside* that item.
+
+**Don't:**
+- Put a blank line between items of the same list.
+- End ordinary list items with two trailing spaces (they are easy to miss in the editor and show up as extra space in every output format).
+
+Tight (correct):
+
+```markdown
+- Arrive 30 minutes before kickoff.
+- Inspect the box, sticks, and clip.
+- Attend the referee briefing.
+```
+
+Long item, wrapped (still tight):
+
+```markdown
+- Cover safety, neutrality, and the culture of professionalism that separates
+  good crews from great ones.
+```
+
+Loose (avoid โ€” extra space between every bullet in the rendered book):
+
+```markdown
+- Arrive 30 minutes before kickoff.
+
+- Inspect the box, sticks, and clip.
+```
+
+Nested lists follow the same rule: keep child items consecutive, and do not insert a blank line between a parent item and its nested list unless you want that parent list to become loose.
+
+### 6.3 Checklists
 ```markdown
 - [ ] Item one
 - [ ] Item two
@@ -171,6 +211,7 @@ Streamline appendices to be purely reference (checklists, templates, diagrams) โ
 ```
 
 - Use GitHub-flavored Markdown checkboxes for tasks, procedures, or uniform checks.
+- Checklist tightness follows the same rules as ยง6.2.
 
 ---
 
@@ -285,6 +326,7 @@ Use this checklist to systematically review each chapter for SG compliance. Repo
 - [ ] **Bullet lists** use `-` for duties/responsibilities
 - [ ] **Numbered lists** only for step-by-step sequences
 - [ ] **List items** are parallel in structure and grammar
+- [ ] **List tightness**: no blank line between items; no two trailing spaces on ordinary items
 - [ ] **Checklists** use GitHub format: `- [ ] Item`
 
 ### **RECOMMENDED ELEMENTS**

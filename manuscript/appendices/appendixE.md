@@ -8,33 +8,35 @@ casual conversation.
 
 ## Purpose
 
-- Align responsibilities between the officiating crew and chain gang.  
-- Clarify procedures for chain movement, resets, and measurements.  
-- Emphasize safety and neutrality.  
+- Align responsibilities between the officiating crew and chain gang.
+- Clarify procedures for chain movement, resets, and measurements.
+- Emphasize safety and neutrality.
 
 ---
 
 ## Template Script
 
-**Head Linesman (HL):**  
-- Identifies sideline for the chain gang (based on coin toss).  
-- Reviews chain movement signals and commands.  
-- Confirms clip procedures (placement, resets, quarter changes).  
-- Gives safety reminders: stay alert, drop equipment if players approach.  
+**Head Linesman (HL):**
 
-**Chain Gang Response:**  
-- Box Operator confirms down marker is functional.  
-- Stick Crew confirms 10-yard chain measurement.  
-- Clip Operator announces readiness and procedure (e.g., “Clip on inside edge 
-nearest ball, confirm with HL”).  
+- Identifies sideline for the chain gang (based on coin toss).
+- Reviews chain movement signals and commands.
+- Confirms clip procedures (placement, resets, quarter changes).
+- Gives safety reminders: stay alert, drop equipment if players approach.
+
+**Chain Gang Response:**
+
+- Box Operator confirms down marker is functional.
+- Stick Crew confirms 10-yard chain measurement.
+- Clip Operator announces readiness and procedure (e.g., “Clip on inside edge
+  nearest ball, confirm with HL”).
 
 ---
 
 ## Quick Tips for Crews
 
-- Use clear, simple verbal confirmations (“Second on the box,” “Clip on 45”).  
-- Establish eye contact with the HL — they are your supervisor.  
-- Avoid side conversations; referees appreciate full attention.  
+- Use clear, simple verbal confirmations (“Second on the box,” “Clip on 45”).
+- Establish eye contact with the HL — they are your supervisor.
+- Avoid side conversations; referees appreciate full attention.
 
 ---
 

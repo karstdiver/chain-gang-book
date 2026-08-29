@@ -16,13 +16,14 @@ under the direction of the officiating crew.
 
 **Primary Duty:** Display the correct down at the line of scrimmage.  
 
-**Key Responsibilities:**  
-- Position the down marker where the head linesman indicates.  
-- Verbally confirm the down (e.g., “Second on the box”).  
-- Rotate the marker promptly, especially between plays and during special 
-  situations like extra points or field goals.  
-- Lead by example — often the “box boy” serves as the de facto leader of the 
-  crew.  
+**Key Responsibilities:**
+
+- Position the down marker where the head linesman indicates.
+- Verbally confirm the down (e.g., “Second on the box”).
+- Rotate the marker promptly, especially between plays and during special
+  situations like extra points or field goals.
+- Lead by example — often the “box boy” serves as the de facto leader of the
+  crew.
 
 ---
 
@@ -31,13 +32,14 @@ under the direction of the officiating crew.
 **Primary Duty:** Mark the current line of scrimmage and the line-to-gain 
 10 yards downfield.  
 
-**Key Responsibilities:**  
-- Maintain a constant 10-yard separation.  
-- Use hand signals (thumbs-up) to communicate when the line of scrimmage stick 
-  is securely set, allowing the downfield stick to tighten the chain.  
-- Respond quickly when the referee signals for a measurement by bringing the 
-  sticks onto the field.  
-- Safely store and wrap the chain after the game.  
+**Key Responsibilities:**
+
+- Maintain a constant 10-yard separation.
+- Use hand signals (thumbs-up) to communicate when the line of scrimmage stick
+  is securely set, allowing the downfield stick to tighten the chain.
+- Respond quickly when the referee signals for a measurement by bringing the
+  sticks onto the field.
+- Safely store and wrap the chain after the game.
 
 ---
 
@@ -45,12 +47,13 @@ under the direction of the officiating crew.
 
 **Primary Duty:** Anchor the chain to the field with precision.  
 
-**Key Responsibilities:**  
-- Place the clip on the inside edge of the yard line closest to the line of 
-  scrimmage.  
-- Announce placement clearly (e.g., “Clip on the 45”).  
-- Assist with resets, quarter changes, and measurements.  
-- Serve as a secondary communicator with officials.  
+**Key Responsibilities:**
+
+- Place the clip on the inside edge of the yard line closest to the line of
+  scrimmage.
+- Announce placement clearly (e.g., “Clip on the 45”).
+- Assist with resets, quarter changes, and measurements.
+- Serve as a secondary communicator with officials.
 
 *Note:* This is often the most technical role, requiring attention to detail 
 and clear communication.  
@@ -62,10 +65,10 @@ and clear communication.
 While not formally part of the chain gang, referees — especially the head 
 linesman — are integral to operations. They:  
 
-- Direct all movements of the chain crew.  
-- Inspect equipment pregame.  
-- Provide the signal to move or hold.  
-- Depend on the chain crew’s neutrality and professionalism.  
+- Direct all movements of the chain crew.
+- Inspect equipment pregame.
+- Provide the signal to move or hold.
+- Depend on the chain crew’s neutrality and professionalism.
 
 The chain gang should always remember: we work for the officials, not for the 
 home team. Neutrality is critical to credibility.  
@@ -109,11 +112,10 @@ For us, we become a better gang even just by bringing new members on. And the mo
 
 ## Three-Person vs. Four-Person Crews
 
-- **Three-Person Crew:** One handles the down box, two handle the sticks (the 
+- **Three-Person Crew:** One handles the down box, two handle the sticks (the
   clip responsibility is folded into the stick crew). In this configuration the clip is placed by the stick while the box temporaily holds both the stick and box. This places additional effort on the crew and, in a fast moving game, some steps can be missed potentially leading to game delays and sideline confusion.
-
-- **Four-Person Crew:** Standard setup — box, two sticks, and dedicated clip 
-  operator. This is the preferred structure for accuracy and efficiency.  
+- **Four-Person Crew:** Standard setup — box, two sticks, and dedicated clip
+  operator. This is the preferred structure for accuracy and efficiency.
 
 ---
 
@@ -136,7 +138,7 @@ The cadence can be disrupted by several factors:
 - **Whistles**: Any stoppage in play changes the cadence rhythm.
 - **Timeouts**: Team called and injury timeouts stop play.
 - **Penalties:** Fouls and infractions stop play and required the crew to wait and follow the Referree's instruction.
-- **Change of quarter:** Natural break in the rhythm  
+- **Change of quarter:** Natural break in the rhythm
 - **Measurements:** Required pause in operations.
 - **Rapid first downs:** Quick succession of plays.
 

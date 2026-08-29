@@ -6,37 +6,37 @@ A football game begins long before the opening kickoff. For the chain gang, prof
 
 ## Crew Coordination  
 
-- **Confirm Attendance:** Contact each member of the chain crew earlier in the day. Last-minute absences are common, and substitutes may be needed.  
+- **Confirm Attendance:** Contact each member of the chain crew earlier in the day. Last-minute absences are common, and substitutes may be needed.
 - **Arrival Time:** Every member should be at the stadium at least 30 minutes before kickoff. This allows time for orientation, equipment checks, and referee briefing. Ideally, the chain crew should be in place before the referees come onto the field. This makes an important first impression.
-- **Recruitment:** If short-handed, replacements must be secured before the referee meeting. Pulling volunteers out of the stands at kickoff should be a last resort.  
+- **Recruitment:** If short-handed, replacements must be secured before the referee meeting. Pulling volunteers out of the stands at kickoff should be a last resort.
 
 ---
 
 ## Equipment Check  
 
-- **Down Box:** Cycle through downs 1–4 to confirm smooth operation. For LED boxes, ensure batteries are charged and a manual backup is available.  
-- **Sticks & Chain:** Verify the chain measures exactly 10 yards. Inspect links, padding, and visibility markings.  
+- **Down Box:** Cycle through downs 1–4 to confirm smooth operation. For LED boxes, ensure batteries are charged and a manual backup is available.
+- **Sticks & Chain:** Verify the chain measures exactly 10 yards. Inspect links, padding, and visibility markings.
 - **Clip(s):** Confirm at least one reliable clip is available.
 
 ---
 
 ## Referee Briefing  
 
-- **Timing:** Occurs shortly before kickoff, led by the head linesman.  
-- **Purpose:** To align expectations between the officiating crew and the chain gang.  
-- **Topics Covered:**  
-  - Positioning of the chain crew (decided by coin toss results).  
-  - Safety reminders (stay alert, move when players approach).  
-  - Procedures for quarter swaps, measurements, and penalties.  
-  - Communication standard: always take direction from the referees, not coaches, players, or fans.  
+- **Timing:** Occurs shortly before kickoff, led by the head linesman.
+- **Purpose:** To align expectations between the officiating crew and the chain gang.
+- **Topics Covered:**
+  - Positioning of the chain crew (decided by coin toss results).
+  - Safety reminders (stay alert, move when players approach).
+  - Procedures for quarter swaps, measurements, and penalties.
+  - Communication standard: always take direction from the referees, not coaches, players, or fans.
 
 ---
 
 ## Pregame Responsibilities by Role  
 
-- **Box Operator:** Pays close attention to the coin toss to identify the sideline where the crew will set up. Prepares to position the down marker immediately.  
-- **Stick Crew:** Double-checks chain integrity, then stands ready to mark the line of scrimmage and line to gain.  
-- **Clip Operator:** Places the clip on the designated yard line once the initial ball spot is confirmed. Ensures visibility and announces placement (e.g., “Clip on the 45”).  
+- **Box Operator:** Pays close attention to the coin toss to identify the sideline where the crew will set up. Prepares to position the down marker immediately.
+- **Stick Crew:** Double-checks chain integrity, then stands ready to mark the line of scrimmage and line to gain.
+- **Clip Operator:** Places the clip on the designated yard line once the initial ball spot is confirmed. Ensures visibility and announces placement (e.g., “Clip on the 45”).
 
 ---
 
@@ -46,12 +46,12 @@ While most chain gang duties occur at home games, experienced crew members somet
 This support keeps the game running smoothly and reflects well on both schools. Away-game volunteering should be seen as a professional courtesy, not as an obligation, and should always respect the home school’s authority.  
 
 
-### SIDEBAR: From the Sideline — Away Clip
+### SIDEBAR: From the Sideline — Away Clip Earned and Awarded
 
 During one particular season a crew member kept being assigned to away-game chain gangs for various reasons. After hearing about two or three of these assignments, the rest of the crew presented him with his own clip. He now carries that clip to all the games, just in case. 
 <!-- end-sidebar -->
 
-if you might get pulled onto a road crew, carry your own clip.
+If you might get pulled onto a road crew, carry your own clip. Carry your own box if you really want to be noticed.
 
 ---
 

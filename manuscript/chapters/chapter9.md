@@ -20,7 +20,7 @@ occasionally, their main concern is game management and enforcement of rules.
 ### Head Linesman (HL)  
 The official assigned to the chain gang’s sideline. They are the direct 
 supervisor. The HL communicates spots, downs, penalties, and movements. In 
-practice, the chain gang reports to the HL at all times.  
+practice, the chain gang reports to the HL at all times. This position is also know as the "Head Line Judge."  
 
 ---
 
@@ -28,11 +28,12 @@ practice, the chain gang reports to the HL at all times.
 
 The HL typically conducts a short meeting with the crew before kickoff.  
 
-**Key topics:**  
-- Where the crew will be stationed (determined by coin toss).  
-- Signals for moving or holding the chains.  
-- Clip placement and chain reset procedures.  
-- Safety reminders (stay alert, drop the equipment if necessary).  
+**Key topics:**
+
+- Where the crew will be stationed (determined by coin toss).
+- Signals for moving or holding the chains.
+- Clip placement and chain reset procedures.
+- Safety reminders (stay alert, drop the equipment if necessary).
 
 This is also the moment when referees inspect the equipment: confirming the 
 chain measures exactly 10 yards and the down box functions correctly.  
@@ -41,22 +42,23 @@ chain measures exactly 10 yards and the down box functions correctly.
 
 ## Game-Time Communication
 
-- **Signals to Move:** Never move the chains until the HL signals. Even if the 
-  play looks like a first down, wait for confirmation.  
-- **Flags on the Field:** If any crew member sees a penalty flag, they should 
-  point to it. This alerts others not to move until the play is resolved.  
-- **Verbal Confirmation:** Box operators should announce the down, and clip 
-  operators should call out placement clearly. Referees appreciate the 
-  redundancy.  
+- **Signals to Move:** Never move the chains until the HL signals. Even if the
+  play looks like a first down, wait for confirmation.
+- **Flags on the Field:** If any crew member sees a penalty flag, they should
+  point to it. This alerts others not to move until the play is resolved.
+- **Verbal Confirmation:** Box operators should announce the down, and clip
+  operators should call out placement clearly. Referees appreciate the
+  redundancy.
 
 ---
 
 ## Professional Neutrality
 
-The chain gang must remain neutral at all times. That means:  
-- No cheering, coaching, or sideline commentary.  
-- No conversations with players or coaches outside of chain operations.  
-- No visible favoritism toward the home team, even if recruited by the school.  
+The chain gang must remain neutral at all times. That means:
+
+- No cheering, coaching, or sideline commentary.
+- No conversations with players or coaches outside of chain operations.
+- No visible favoritism toward the home team, even if recruited by the school.
 
 Neutrality builds credibility. Referees trust crews that stay silent, sharp, 
 and impartial.  

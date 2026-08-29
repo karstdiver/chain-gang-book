@@ -14,30 +14,30 @@ requires focus, communication, and an appreciation for small details.
 ## Primary Functions of the Clip
 
 ### Resetting the Chains  
-- Place the clip on the inside edge of the nearest yard line to the ball.  
-- Announce the placement clearly (e.g., “Clip on the 45”).  
-- This allows the crew to return the chains to the correct spot if moved.  
+- Place the clip on the inside edge of the nearest yard line to the ball.
+- Announce the placement clearly (e.g., “Clip on the 45”).
+- This allows the crew to return the chains to the correct spot if moved.
 
 ### Quarter Changes  
-- Realign the chains when the teams switch ends of the field, using the clip as 
-  the referee directs.  
-- Confirm placement, point to the correct line, and say "Ball side" so officials 
-  know which way to reorient.  
+- Realign the chains when the teams switch ends of the field, using the clip as
+  the referee directs.
+- Confirm placement, point to the correct line, and say "Ball side" so officials
+  know which way to reorient.
 
 ### Measurements  
-- Ensure the 10-yard distance remains exact during close plays.  
-- Place the marked line first as the stick crew brings the chains onto the field, 
-  anchoring accuracy for the referee's decision.  
+- Ensure the 10-yard distance remains exact during close plays.
+- Place the marked line first as the stick crew brings the chains onto the field,
+  anchoring accuracy for the referee's decision.
 
 ---
 
 ## Systems of Operation
 
-- **One-Clip System:** Most common, but vulnerable if the chain is disturbed.  
-- **Two-Clip System:** Preferred for accuracy. One clip holds the current spot, 
-  while the second is prepped for the next placement.  
-- **Three-Clip System:** Used by veteran crews. Provides redundancy — and a 
-  way for the clip operator to joke about “speeding up the game” when tired.  
+- **One-Clip System:** Most common, but vulnerable if the chain is disturbed.
+- **Two-Clip System:** Preferred for accuracy. One clip holds the current spot,
+  while the second is prepped for the next placement.
+- **Three-Clip System:** Used by veteran crews. Provides redundancy — and a
+  way for the clip operator to joke about “speeding up the game” when tired.
 
 ---
 
@@ -46,9 +46,9 @@ requires focus, communication, and an appreciation for small details.
 The clip operator often serves as the spokesperson for the crew during pregame 
 briefing. Key points to confirm:  
 
-- The chain gang works for the officials, not the teams.  
-- The clip operator will call out placements clearly.  
-- If sideline interference occurs, issues are reported directly to referees.  
+- The chain gang works for the officials, not the teams.
+- The clip operator will call out placements clearly.
+- If sideline interference occurs, issues are reported directly to referees.
 
 Officials respect crews that present themselves as neutral, disciplined, and 
 focused on accuracy.  
@@ -61,9 +61,9 @@ The clip operator is usually positioned slightly behind the play, but that does
 not mean safety is guaranteed. Players are large, fast, and armored. The 
 operator must:  
 
-- Always look behind before each play.  
-- Move quickly if a run or tackle approaches.  
-- Avoid getting trapped in the “collision zone” near the sticks.  
+- Always look behind before each play.
+- Move quickly if a run or tackle approaches.
+- Avoid getting trapped in the “collision zone” near the sticks.
 
 ---
 

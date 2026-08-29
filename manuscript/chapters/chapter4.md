@@ -10,59 +10,58 @@ appearance, safety, and comfort matter.
 
 ## Headwear
 
-- **Preferred:** Matching hats in school colors or referee-style black caps.  
-- **Benefit:** Easy identification as an organized crew, sun protection, and a 
-  subtle mark of pride.  
-- **Best Practice:** Provide hats at the start of each season. Athletic 
-  directors often fund these small but meaningful touches.  
+- **Preferred:** Matching hats in school colors or referee-style black caps.
+- **Benefit:** Easy identification as an organized crew, sun protection, and a
+  subtle mark of pride.
+- **Best Practice:** Provide hats at the start of each season. Athletic
+  directors often fund these small but meaningful touches.
 
 ---
 
 ## Shirts
 
-- **Preferred:** Matching polo or T-shirt with school colors, logo, and “Chain 
-  Gang” embroidered or printed.  
-- **Benefit:** Promotes team unity and sideline recognition.  
-- **Best Practice:** Invest in durable, breathable fabric. A consistent look 
-  elevates the crew’s presence.  
+- **Preferred:** Matching polo or T-shirt with school colors, logo, and “Chain
+  Gang” embroidered or printed.
+- **Benefit:** Promotes team unity and sideline recognition.
+- **Best Practice:** Invest in durable, breathable fabric. A consistent look
+  elevates the crew’s presence.
 
 ---
 
 ## Bottoms
 
-- **Options:**  
-  - Warm weather: Khaki shorts are common.  
-  - Cool weather: Referee pants with white stripe or dark-colored slacks.  
-
-- **Note:** Pants should be functional — bending, sprinting, and sideline 
-  agility are part of the job.  
+- **Options:**
+  - Warm weather: Khaki shorts are common.
+  - Cool weather: Referee pants with white stripe or dark-colored slacks.
+- **Note:** Pants should be functional — bending, sprinting, and sideline
+  agility are part of the job.
 
 ---
 
 ## Footwear
 
-- **Non-Negotiable:** Athletic, closed-toe shoes.  
-- **Preferred:** Black athletic shoes (to match referees) — leather or durable 
-  synthetic.  
-- **Avoid:** Sandals, cleats, or casual slip-ons.  
-- **Reason:** Games run hours, and sideline collisions are inevitable. Proper 
-  shoes prevent injuries and show respect for the role.  
+- **Non-Negotiable:** Athletic, closed-toe shoes.
+- **Preferred:** Black athletic shoes (to match referees) — leather or durable
+  synthetic.
+- **Avoid:** Sandals, cleats, or casual slip-ons.
+- **Reason:** Games run hours, and sideline collisions are inevitable. Proper
+  shoes prevent injuries and show respect for the role.
 
 ---
 
 ## Socks
 
-- **No Standard:** Everything from ankle socks to knee-highs is common.  
-- **Recommendation:** Black or neutral colors for a clean look. Unlike 
-  professional cycling, there’s no “sock code” — but neatness counts.  
+- **No Standard:** Everything from ankle socks to knee-highs is common.
+- **Recommendation:** Black or neutral colors for a clean look. Unlike
+  professional cycling, there’s no “sock code” — but neatness counts.
 
 ---
 
 ## Weather Gear
 
-- **Rain:** Lightweight ponchos or frog togs that can be stowed in a bag or 
-  clipped to a belt.  
-- **Cold:** Layered clothing that doesn’t restrict movement.  
+- **Rain:** Lightweight ponchos or frog togs that can be stowed in a bag or
+  clipped to a belt.
+- **Cold:** Layered clothing that doesn’t restrict movement.
 
 **Pro Tip:** Carry a large plastic bag to protect wallet, phone, or other 
 essentials during storms.  

@@ -34,9 +34,9 @@ The box operator is often the de facto leader of the chain gang. This is not
 an official designation but a practical one. Because the down marker is central 
 to game flow:  
 
-- Referees naturally look to the box operator for quick confirmation.  
-- Stick crew members align themselves relative to the box.  
-- Substitutes or new crew members often follow the box operator’s lead.  
+- Referees naturally look to the box operator for quick confirmation.
+- Stick crew members align themselves relative to the box.
+- Substitutes or new crew members often follow the box operator’s lead.
 
 In many schools, the box operator also coordinates with the athletic director 
 about crew needs, equipment maintenance, and replacements.  
@@ -45,22 +45,22 @@ about crew needs, equipment maintenance, and replacements.
 
 ## During the Game
 
-- **Positioning:** Stay alert and agile. Plays often crash into the sideline, 
-  and the box is the first piece of equipment at risk.  
-- **Communication:** Maintain eye contact with the head linesman, confirm down 
-  changes verbally, and signal stick operators when ready.  
-- **Tempo Management:** The offense cannot run a play until the down marker is 
-  set. Quick, decisive action keeps the game flowing smoothly.  
+- **Positioning:** Stay alert and agile. Plays often crash into the sideline,
+  and the box is the first piece of equipment at risk.
+- **Communication:** Maintain eye contact with the head linesman, confirm down
+  changes verbally, and signal stick operators when ready.
+- **Tempo Management:** The offense cannot run a play until the down marker is
+  set. Quick, decisive action keeps the game flowing smoothly.
 
 ---
 
 ## Postgame Duties
 
-- Return the box to storage, ensuring it is not damaged.  
-- For LED models, plug in to charge immediately.  
-- Confirm a manual backup box is available for emergencies.  
-- Debrief briefly with the crew: thank volunteers, confirm attendance for the 
-  next game, and note any equipment issues.  
+- Return the box to storage, ensuring it is not damaged.
+- For LED models, plug in to charge immediately.
+- Confirm a manual backup box is available for emergencies.
+- Debrief briefly with the crew: thank volunteers, confirm attendance for the
+  next game, and note any equipment issues.
 
 ---
 

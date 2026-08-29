@@ -8,21 +8,21 @@ at away venues.
 
 ## Assisting the Home Crew
 
-- **Observation First:** Evaluate the home team’s chain crew. Are they 
-understaffed or struggling with procedures?  
-- **Offer Politely:** If help is clearly needed, introduce yourself to the head 
-linesman and offer to assist. Do not bypass officials or insert yourself 
-without approval.  
-- **Stay Neutral:** Remember, you are not there to favor your school. If 
-accepted, you are part of the officiating crew — not a visiting fan.  
+- **Observation First:** Evaluate the home team’s chain crew. Are they
+  understaffed or struggling with procedures?
+- **Offer Politely:** If help is clearly needed, introduce yourself to the head
+  linesman and offer to assist. Do not bypass officials or insert yourself
+  without approval.
+- **Stay Neutral:** Remember, you are not there to favor your school. If
+  accepted, you are part of the officiating crew — not a visiting fan.
 
 ---
 
 ## Benefits of Helping
 
-- Keeps the game flowing smoothly.  
-- Builds goodwill between programs and officiating associations.  
-- Provides valuable experience in adapting to different crew styles.  
+- Keeps the game flowing smoothly.
+- Builds goodwill between programs and officiating associations.
+- Provides valuable experience in adapting to different crew styles.
 
 ---
 

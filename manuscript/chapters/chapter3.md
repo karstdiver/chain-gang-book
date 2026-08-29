@@ -16,16 +16,18 @@ that must be respected.
 **Purpose:** Displays the current down (1st through 4th) and physically marks 
 the line of scrimmage.  
 
-**Operation:**  
-- Position it exactly where the head linesman indicates, typically at the 
-  linesman’s right foot.  
-- Flip the indicator quickly and confidently after each play.  
-- For special plays (extra points, field goals), rotate the box sideways to 
-  hide the number, leaving only the upright pole visible.  
+**Operation:**
 
-**Modern Variations:**  
-- Many schools use LED boxes for visibility. These must be charged postgame.  
-- A manual backup is advisable in case of battery failure.  
+- Position it exactly where the head linesman indicates, typically at the
+  linesman’s right foot.
+- Flip the indicator quickly and confidently after each play.
+- For special plays (extra points, field goals), rotate the box sideways to
+  hide the number, leaving only the upright pole visible.
+
+**Modern Variations:**
+
+- Many schools use LED boxes for visibility. These must be charged postgame.
+- A manual backup is advisable in case of battery failure.
 
 ### Manual vs. Electronic Boxes
 
@@ -60,18 +62,21 @@ This is the story of how we acquired our electronic LED box.
 **Purpose:** Establishes the 10-yard distance between the line of scrimmage 
 and the line-to-gain for a first down.  
 
-**Operation:**  
-- Always maintain a tight 10-yard distance.  
-- Use clear communication signals (thumbs-up before pulling the chain taut).  
-- Be ready to sprint onto the field for measurements when directed.  
+**Operation:**
 
-**Care & Storage:**  
-- After the game, wrap the chain securely around the base of the sticks.  
-- Store in a safe location, away from kinks or tangles.  
+- Always maintain a tight 10-yard distance.
+- Use clear communication signals (thumbs-up before pulling the chain taut).
+- Be ready to sprint onto the field for measurements when directed.
 
-**Visibility:**  
-- Bright orange banners or padding should be secured and in good condition.  
-- Faded or missing covers reduce visibility for players and officials.  
+**Care & Storage:**
+
+- After the game, wrap the chain securely around the base of the sticks.
+- Store in a safe location, away from kinks or tangles.
+
+**Visibility:**
+
+- Bright orange banners or padding should be secured and in good condition.
+- Faded or missing covers reduce visibility for players and officials.
 
 ---
 
@@ -80,22 +85,25 @@ and the line-to-gain for a first down.
 **Purpose:** Provides precision anchoring to a specific yard line, allowing 
 accurate resets, quarter changes, and measurements.  
 
-**Operation:**  
-- Place on the inside edge of the closest yard line to the ball.  
-- Announce loudly (“Clip on 45!”) for referee confirmation.  
-- Assist referees during quarter swaps and measurements.  
+**Operation:**
 
-**Advanced Systems:**  
-- *One-clip system:* Standard but vulnerable to mistakes.  
-- *Two-clip system:* Professional crews often use this to ensure accuracy if 
-  chains are moved inadvertently.  
-- *Three-clip system:* Rare but useful for crews wanting redundancy.  
+- Place on the inside edge of the closest yard line to the ball.
+- Announce loudly (“Clip on 45!”) for referee confirmation.
+- Assist referees during quarter swaps and measurements.
 
-**Maintenance:**  
-- Carry spare clips. Purchased and customized versions can be sturdier and easier to use than 
-  referee-issued ones.  
-- Include a basic chain repair kit (slip rings, spring clips) as part of 
-  the clip operator's kit.  
+**Advanced Systems:**
+
+- *One-clip system:* Standard but vulnerable to mistakes.
+- *Two-clip system:* Professional crews often use this to ensure accuracy if
+  chains are moved inadvertently.
+- *Three-clip system:* Rare but useful for crews wanting redundancy.
+
+**Maintenance:**
+
+- Carry spare clips. Purchased and customized versions can be sturdier and easier to use than
+  referee-issued ones.
+- Include a basic chain repair kit (slip rings, spring clips) as part of
+  the clip operator's kit.
 
 ---
 
@@ -119,7 +127,6 @@ To address this issue, I've added larger spring clips to my clips. These are eas
 There are two types of indicators on these clips:
 
 - **Cloth Strip Clip:** Features a cloth strip with yard numbers either embroidered or printed along it. A plastic clip slides up and down this strip to mark the yard marker.
-
 - **Circular Dial Clip:** Features a circular clip with a dial that has a window displaying the yard marker line.
 
 **Pro Tip:** I've found that the circular clip is physically harder to use than the cloth strip clip. This is an important consideration for new users and something the head linesman should consider when providing clips to the team.
@@ -172,11 +179,11 @@ This practice is more common in higher-level football, including college and pro
 
 Every crew should inspect the equipment before kickoff:  
 
-- **Box:** Flip through all down positions (1–4) to ensure smooth operation.  
-- **Sticks:** Check chain for kinks, frays, or weak links. Verify 10-yard 
-  distance.  
-- **Clip:** Ensure it attaches securely, markings are visible, and at least one 
-  backup is available.  
+- **Box:** Flip through all down positions (1–4) to ensure smooth operation.
+- **Sticks:** Check chain for kinks, frays, or weak links. Verify 10-yard
+  distance.
+- **Clip:** Ensure it attaches securely, markings are visible, and at least one
+  backup is available.
 
 A game flows best when the chain gang eliminates surprises before they occur.
 

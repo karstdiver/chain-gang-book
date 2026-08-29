@@ -24,12 +24,12 @@ Friday night lights.
 
 In the chapters ahead, we will:  
 
-- Define each role (box, sticks, clip) and explain their responsibilities.  
-- Review the tools of the trade and how to maintain them.  
-- Establish professional standards for pregame, in-game, and postgame operations.  
-- Explore the working relationship with referees.  
-- Cover safety, neutrality, and the culture of professionalism that separates 
-  good crews from great ones.  
+- Define each role (box, sticks, clip) and explain their responsibilities.
+- Review the tools of the trade and how to maintain them.
+- Establish professional standards for pregame, in-game, and postgame operations.
+- Explore the working relationship with referees.
+- Cover safety, neutrality, and the culture of professionalism that separates
+  good crews from great ones.
 
 My aim is for this book to serve as both a manual and a mentor: precise enough 
 to train a new chain gang from scratch, but personable enough to remind 

@@ -46,6 +46,6 @@ We'd been communicating for a while on the email list, and one of our members, t
 
 ---
 
-Crews communicate before, during, after, and between games to protect safety, maintain accuracy, and show officials they’re working with a truly professional team—one they’re happy to say, ‘See you next game!’ to.
+Crews communicate before, during, after, and between games to protect safety, maintain accuracy, and show officials they’re working with a truly professional team—one they’re happy to say, ‘See you next game!’
 
 This book communicated how a high-performing chain crew operates before and during games. It provides instruction, observations, and tips on being a good chain crew, one that represents the school with pride. And all of this just to be able to end with 'See you next game!'

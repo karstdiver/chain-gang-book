@@ -37,13 +37,13 @@ hours.
 
 ## Pro Tips for Fitness & Endurance
 
-- **Stretch Before the Game:** Focus on hamstrings, calves, and lower back. 
-  Light stretching on the sideline during the referee’s briefing is smart 
-  preparation.  
-- **Hydrate Constantly:** Carry a small bottle of water in a pocket or belt. 
-  In hot weather, take quick sips without leaving the field.  
-- **Pace Yourself:** Move with urgency, but don’t burn out early. Crews that 
-  sprint everywhere often fade by the fourth quarter.  
+- **Stretch Before the Game:** Focus on hamstrings, calves, and lower back.
+  Light stretching on the sideline during the referee’s briefing is smart
+  preparation.
+- **Hydrate Constantly:** Carry a small bottle of water in a pocket or belt.
+  In hot weather, take quick sips without leaving the field.
+- **Pace Yourself:** Move with urgency, but don’t burn out early. Crews that
+  sprint everywhere often fade by the fourth quarter.
 
 **Pro Tip:** Yard markers on the sideline (cones or boxes with numbers) can 
 double as stash spots for rain gear or a jacket. Just don’t overload them — 

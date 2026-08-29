@@ -169,16 +169,39 @@ Streamline appendices to be purely reference (checklists, templates, diagrams) �
 
 Markdown treats list spacing as syntax. Pandoc renders a **tight** list (compact bullets) or a **loose** list (a blank line of space between every item). A blank line between any two items of the same list makes the **entire** list loose. Two spaces at the end of a line are a hidden hard line break and add a gap after that item even when the list is otherwise tight.
 
+**Start the list with a blank line after a paragraph or label.** If a line of prose (including a bold label such as `**Key Responsibilities:**`) is immediately followed by `-` items with no blank line in between, Pandoc does not build a list. The dashes become part of the paragraph and print as one run-on bullet. Two trailing spaces on the label are not a substitute: they only insert a line break inside that paragraph.
+
+A `##` or `###` heading may be followed by a list with or without a blank line. Nested lists stay tight: do not put a blank line between a parent item and its nested children.
+
 **Do:**
+- Put a blank line after a paragraph or label, then the first list item.
 - Put consecutive items on consecutive lines. No blank line between items.
-- Wrap a long item with an indented continuation line, not a blank line.
+- Wrap a long item with an indented continuation line, not a blank line (indent the wrap; do not return to column 0).
 - Leave two trailing spaces on a list-item line only when you intend a hard line break *inside* that item.
 
 **Don't:**
+- Put the first `-` on the line immediately after a paragraph or `**Label:**`.
 - Put a blank line between items of the same list.
 - End ordinary list items with two trailing spaces (they are easy to miss in the editor and show up as extra space in every output format).
 
-Tight (correct):
+List after a label (correct):
+
+```markdown
+**Key Responsibilities:**
+
+- Position the down marker where the head linesman indicates.
+- Verbally confirm the down (e.g., “Second on the box”).
+```
+
+Run-on (avoid — prints as one paragraph with dashes):
+
+```markdown
+**Key Responsibilities:**
+- Position the down marker where the head linesman indicates.
+- Verbally confirm the down.
+```
+
+Tight items after the list has started (correct):
 
 ```markdown
 - Arrive 30 minutes before kickoff.
@@ -200,8 +223,6 @@ Loose (avoid — extra space between every bullet in the rendered book):
 
 - Inspect the box, sticks, and clip.
 ```
-
-Nested lists follow the same rule: keep child items consecutive, and do not insert a blank line between a parent item and its nested list unless you want that parent list to become loose.
 
 ### 6.3 Checklists
 ```markdown
@@ -326,7 +347,7 @@ Use this checklist to systematically review each chapter for SG compliance. Repo
 - [ ] **Bullet lists** use `-` for duties/responsibilities
 - [ ] **Numbered lists** only for step-by-step sequences
 - [ ] **List items** are parallel in structure and grammar
-- [ ] **List tightness**: no blank line between items; no two trailing spaces on ordinary items
+- [ ] **List tightness**: blank line after a paragraph/label before the first item; no blank line between items; no two trailing spaces on ordinary items
 - [ ] **Checklists** use GitHub format: `- [ ] Item`
 
 ### **RECOMMENDED ELEMENTS**

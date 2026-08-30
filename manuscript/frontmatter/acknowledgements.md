@@ -23,4 +23,4 @@ put up with my Friday night absences, listened to more chain gang stories than
 anyone should, and reminded me why this role — humble though it may seem — 
 matters.  
 
-— Richard Kallay  
+— {{author-initials}}  

@@ -13,6 +13,7 @@ profile: fullbook          # mirrors make PROFILE=fullbook
 #publisher: common          # mirrors make PUBLISHER=common
 
 # --- Assets (when you add covers; paths relative to repo root) ---
-# cover-image: assets/covers/chain-gang-cover.jpg
+# Cover files are selected by the Makefile per target (draft/pdf/epub).
+# # cover-image: assets/covers/chain-gang-cover.jpg
 
 ---

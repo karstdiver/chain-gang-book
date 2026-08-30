@@ -76,6 +76,13 @@ TEMPLATE  = $(ASSET_DIR)/$(STYLE_DIR)/book.tex.tpl
 LUAFILTER = $(ASSET_DIR)/$(STYLE_DIR)/boxes.lua
 REFDOCX   = $(ASSET_DIR)/$(STYLE_DIR)/reference.docx
 
+# Cover slots (Makefile picks per target). Override on the command line, e.g.
+#   make pdf PDF_COVER_IMAGE=assets/covers/Friday_Night_Chains_4800x7680_300dpi.jpg
+COVERS_DIR          := $(ASSET_DIR)/covers
+DEFAULT_COVER_IMAGE ?= $(COVERS_DIR)/default-cover-image.jpg
+PDF_COVER_IMAGE     ?= $(COVERS_DIR)/pdf-cover-image.jpg
+EPUB_COVER_IMAGE    ?= $(COVERS_DIR)/epub-cover-image.jpg
+
 PDF_ENGINE=xelatex
 
 # Helper scripts
@@ -106,8 +113,8 @@ help:
 	@echo "  show        - Display and check on book build files"
 	@echo "  fullbookmd  - Stitch together into book.md"
 	@echo "  validate    - Broken-book checks (manifest/assets; not style lint)"
-	@echo "  draft       - Quick PDF build (no template/filters, for proofing)"
-	@echo "  pdf         - Build print-ready PDF (styled)"
+	@echo "  draft       - Quick PDF (default cover, template, no lua filter)"
+	@echo "  pdf         - Build print-ready PDF (styled, pdf cover)"
 	@echo "  showpdf     - Build PDF and open in default viewer"
 	@echo "  epub        - Build EPUB for Apple Books / Kindle"
 	@echo "  docx        - Build Word/Pages version"
@@ -122,6 +129,10 @@ help:
 	@echo "  publisher manifest lists are in $(METADATA_DIR)/$(PUBLISHER_DIR)"
 	@echo "  stitched book file is $(STITCHED_FILE)"
 	@echo "  output books are in $(EXPORT_DIR)"
+	@echo "  covers: draft=$(DEFAULT_COVER_IMAGE)"
+	@echo "          pdf=$(PDF_COVER_IMAGE)"
+	@echo "          epub=$(EPUB_COVER_IMAGE)"
+	@echo "  docx has no EPUB/PDF-style cover page"
 
 # Human-readable git status (script only reports; does not change the repo).
 repo-status status:
@@ -181,32 +192,42 @@ workflow howto edit:
 	@echo ""
 
 draft: fullbookmd
+	@test -f "$(DEFAULT_COVER_IMAGE)" || { echo "❌ Missing cover: $(DEFAULT_COVER_IMAGE)"; exit 1; }
 	@echo "📝 Building draft PDF → $(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf"
+	@echo "   cover: $(DEFAULT_COVER_IMAGE)"
 	pandoc $(MD) -o $(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf \
 	  $(METADATA_FLAGS) \
 	  --from markdown \
-	  --pdf-engine=$(PDF_ENGINE)
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --template=$(TEMPLATE) \
+	  --metadata cover-image=$(DEFAULT_COVER_IMAGE)
 	@echo "✅ Wrote $(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf"
 	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf" || true
 
 pdf: fullbookmd
+	@test -f "$(PDF_COVER_IMAGE)" || { echo "❌ Missing cover: $(PDF_COVER_IMAGE)"; exit 1; }
 	@echo "🖨  Building styled PDF → $(EXPORT_DIR)/pdf/$(TITLE).pdf"
+	@echo "   cover: $(PDF_COVER_IMAGE)"
 	pandoc $(MD) -o $(EXPORT_DIR)/pdf/$(TITLE).pdf \
 	  $(METADATA_FLAGS) \
 	  --from markdown+implicit_figures \
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --template=$(TEMPLATE) \
-	  --lua-filter=$(LUAFILTER)
+	  --lua-filter=$(LUAFILTER) \
+	  --metadata cover-image=$(PDF_COVER_IMAGE)
 	@echo "✅ Wrote $(EXPORT_DIR)/pdf/$(TITLE).pdf"
 	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE).pdf" || true
 
 epub: fullbookmd
+	@test -f "$(EPUB_COVER_IMAGE)" || { echo "❌ Missing cover: $(EPUB_COVER_IMAGE)"; exit 1; }
 	@echo "📚 Building EPUB → $(EXPORT_DIR)/epub/$(TITLE).epub"
+	@echo "   cover: $(EPUB_COVER_IMAGE)"
 	pandoc $(MD) -o $(EXPORT_DIR)/epub/$(TITLE).epub \
 	  $(METADATA_FLAGS) \
 	  --from markdown+implicit_figures \
 	  --lua-filter=$(LUAFILTER) \
-	  --epub-title-page=false
+	  --epub-title-page=false \
+	  --epub-cover-image=$(EPUB_COVER_IMAGE)
 	@echo "✅ Wrote $(EXPORT_DIR)/epub/$(TITLE).epub"
 	@ls -lh "$(EXPORT_DIR)/epub/$(TITLE).epub" || true
 
@@ -249,15 +270,21 @@ clean:
 #   make show-manifest               # prints which manifest will be used
 
 
-.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
+.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-covers show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
 
 
-show: show-title show-profile show-manifest check-manifest show-metadata check-metadata
+show: show-title show-covers show-profile show-manifest check-manifest show-metadata check-metadata
 
 show-title:
 	@echo "YQ      = $(if $(YQ),$(YQ),(not installed))"
 	@echo "TITLE   = $(TITLE)"
 	@echo "SOURCE  = $(METADATA_COMMON)"
+
+show-covers:
+	@echo "DEFAULT_COVER_IMAGE = $(DEFAULT_COVER_IMAGE)"
+	@echo "PDF_COVER_IMAGE     = $(PDF_COVER_IMAGE)"
+	@echo "EPUB_COVER_IMAGE    = $(EPUB_COVER_IMAGE)"
+	@echo "(docx does not use a cover-image slot)"
 
 show-profile:
 	@echo "Building book using:"

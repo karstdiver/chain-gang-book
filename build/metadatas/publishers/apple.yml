@@ -3,6 +3,7 @@ description: |
   Blurb for Apple Books / Books Connect (may differ in length/tone from Amazon).
 
 # cover-image: assets/covers/chain-gang-apple.jpg
+# (Makefile EPUB_COVER_IMAGE currently selects the EPUB cover; publisher overlay is a later step.)
 
 publisher: apple
 apple-subjects:

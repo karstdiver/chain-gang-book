@@ -41,9 +41,14 @@ slug: chain-gang-book
 profile: fullbook          # mirrors make PROFILE=fullbook
 publisher: common          # mirrors make PUBLISHER=common
 
-# --- Assets (paths relative to repo root; EPUB cover + PDF page 1) ---
-# Replace this JPEG with final art when ready; keep the path stable.
-cover-image: assets/covers/chain-gang-cover.jpg
+# --- Assets (paths relative to repo root) ---
+# Cover files are chosen by the Makefile per target, not by this single key:
+#   make draft → DEFAULT_COVER_IMAGE (assets/covers/default-cover-image.jpg)
+#   make pdf   → PDF_COVER_IMAGE     (assets/covers/pdf-cover-image.jpg)
+#   make epub  → EPUB_COVER_IMAGE    (assets/covers/epub-cover-image.jpg)
+#   make docx  → no cover slot
+# Override: make pdf PDF_COVER_IMAGE=assets/covers/some-other.jpg
+# cover-image: (unused by make; passed per-target via --metadata / --epub-cover-image)
 
 # --- Identifier (fill when you have a real ISBN; also update title-page.md) ---
 # identifier:

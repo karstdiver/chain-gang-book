@@ -43,7 +43,7 @@ $endif$
 
 \begin{document}
 
-% Cover page uses metadata cover-image.
+% Cover page uses cover-image (Makefile passes a per-target path).
 % Title page + PDF TOC come from manuscript/frontmatter/title-page.md (first in the manifest).
 $if(cover-image)$
 \thispagestyle{empty}

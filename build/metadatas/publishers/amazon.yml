@@ -7,7 +7,7 @@ keywords:
   - Friday night football
   - sideline volunteer
 
-# EPUB when you add a cover per store
+# Cover when you add store-specific EPUB art (Makefile EPUB_COVER_IMAGE still wins unless you change the Makefile)
 # cover-image: assets/covers/chain-gang-amazon.jpg
 
 # Sidecar — KDP web UI still needs these; YAML is your checklist

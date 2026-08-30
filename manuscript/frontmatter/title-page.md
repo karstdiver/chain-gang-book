@@ -16,7 +16,7 @@ Chain Crews
 {\large
 ```
 
-Richard Kallay
+{{author}}
 
 ```{=latex}
 \par}
@@ -32,7 +32,7 @@ Richard Kallay
 \vspace{2.0cm}
 ```
 
-© 2026 Richard Kallay
+© 2026 {{author}}
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 

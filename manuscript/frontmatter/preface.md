@@ -22,4 +22,4 @@ this book will serve as both manual and mentor.
 Above all, this book is about respect: for the game, for the officials, for 
 the players, and for the volunteers who make the chains move.  
 
-— Richard Kallay  
+— {{author-initials}}  

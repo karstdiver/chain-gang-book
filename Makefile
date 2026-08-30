@@ -200,6 +200,7 @@ draft: fullbookmd
 	  --from markdown \
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --template=$(TEMPLATE) \
+	  --lua-filter=$(LUAFILTER) \
 	  --metadata cover-image=$(DEFAULT_COVER_IMAGE)
 	@echo "✅ Wrote $(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf"
 	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE)_draft.pdf" || true

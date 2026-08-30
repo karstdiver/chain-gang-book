@@ -7,10 +7,16 @@
 # Do not edit build/book.md — that file is stitched from the manifest.
 
 # --- Pandoc document metadata (pdf/epub/docx; book.tex.tpl reads these) ---
+# `author` is Pandoc's standard field: EPUB OPF, DOCX core properties,
+# \author in book.tex.tpl, and {{author}} in manuscript/frontmatter/title-page.md
+# (the Lua filter in assets/styles/boxes.lua performs that substitution).
+# Printed signatures use {{author-initials}}.
 title: Friday Night Chains
 subtitle: A Practical Guide for High School Football Chain Crews
 author:
   - Richard Kallay
+# Displayed via {{author-initials}} in preface and acknowledgements.
+author-initials: RRK
 lang: en-US
 date: 2026-05-26
 rights: "© 2026 Richard Kallay. Licensed CC BY 4.0."

@@ -29,6 +29,8 @@ Chain Crews
 
 All rights reserved.
 
+{{edition}}
+
 ```{=latex}
 \vspace{1.4cm}
 ```

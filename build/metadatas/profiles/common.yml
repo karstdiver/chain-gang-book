@@ -11,12 +11,15 @@
 # \author in book.tex.tpl, and {{author}} in manuscript/frontmatter/title-page.md
 # (the Lua filter in assets/styles/boxes.lua performs that substitution).
 # Printed signatures use {{author-initials}}.
+# Printed edition line on the title page uses {{edition}} (Lua filter).
 title: Friday Night Chains
 subtitle: A Practical Guide for High School Football Chain Crews
 author:
   - Richard Kallay
 # Displayed via {{author-initials}} in preface and acknowledgements.
 author-initials: RRK
+# Reader-facing edition (not a git tag). Bump when you mean a new edition.
+edition: First Kindle edition, August 2026
 lang: en-US
 date: 2026-05-26
 rights: "© 2026 Richard Kallay. All rights reserved."

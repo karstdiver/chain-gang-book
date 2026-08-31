@@ -26,4 +26,4 @@ However, this stub provides a space for a manually curated TOC if needed for dra
 12. Chapter 12 — Special Weather Conditions
 
 - Conclusion
-- Appendices A–D
+- Appendices A–C

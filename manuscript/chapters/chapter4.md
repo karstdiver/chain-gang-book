@@ -62,6 +62,7 @@ appearance, safety, and comfort matter.
 - **Rain:** Lightweight ponchos or frog togs that can be stowed in a bag or
   clipped to a belt.
 - **Cold:** Layered clothing that doesn’t restrict movement.
+- **Modern additions:** USB-powered heated vests, socks, and gloves.
 
 **Pro Tip:** Carry a large plastic bag to protect wallet, phone, or other 
 essentials during storms.  

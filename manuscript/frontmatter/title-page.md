@@ -22,19 +22,12 @@ Chain Crews
 \par}
 \vspace{2.6cm}
 \normalsize
-```
-
-**ISBN-13:** 978-0-000000-00-0
-
-*Placeholder — replace with the assigned ISBN when purchased*
-
-```{=latex}
 \vspace{2.0cm}
 ```
 
 © 2026 {{author}}
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+All rights reserved.
 
 ```{=latex}
 \vspace{1.4cm}

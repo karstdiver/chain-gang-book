@@ -92,10 +92,10 @@ git merge chapter-4
 
 ---
 
-## Licensing
+## Copyright
 
-By contributing, you agree that your contributions will be licensed under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0).
+By contributing, you agree that your contributions become part of this work
+under the same copyright: © 2026 Richard Kallay. All rights reserved.
 
 ---
 

@@ -28,7 +28,7 @@ chain-gang-book/
 ├── exports/                 # Built outputs (PDF, EPUB, DOCX, etc.)
 ├── Makefile                 # Build automation
 ├── .gitignore               # Git ignore rules
-├── LICENSE                  # License (CC-BY 4.0)
+├── LICENSE                  # Copyright (all rights reserved)
 └── CONTRIBUTING.md          # Contribution guidelines
 ```
 
@@ -89,9 +89,12 @@ make epub PROFILE=fullbook PUBLISHER=amazon
 
 ---
 
-## License
+## Copyright
 
-This work is licensed under the **Creative Commons Attribution 4.0 International License (CC-BY 4.0)**.  
+© 2026 Richard Kallay
+
+All rights reserved.
+
 See [LICENSE](LICENSE) for details.
 
 ---
@@ -99,7 +102,7 @@ See [LICENSE](LICENSE) for details.
 ## Contributing
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for workflow, 
-style rules, and licensing details.  
+style rules, and copyright.  
 
 ---
 

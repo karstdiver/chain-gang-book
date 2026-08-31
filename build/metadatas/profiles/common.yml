@@ -19,7 +19,7 @@ author:
 author-initials: RRK
 lang: en-US
 date: 2026-05-26
-rights: "© 2026 Richard Kallay. Licensed CC BY 4.0."
+rights: "© 2026 Richard Kallay. All rights reserved."
 
 # --- Structure (today duplicated on pandoc CLI as --toc --number-sections) ---
 toc: true
@@ -56,7 +56,7 @@ publisher: common          # mirrors make PUBLISHER=common
 # Override: make pdf PDF_COVER_IMAGE=assets/covers/some-other.jpg
 # cover-image: (unused by make; passed per-target via --metadata / --epub-cover-image)
 
-# --- Identifier (fill when you have a real ISBN; also update title-page.md) ---
+# --- Identifier (optional; KDP EPUB often uses ASIN only) ---
 # identifier:
 #   - scheme: ISBN-13
 #     text: "978-0-000000-00-0"

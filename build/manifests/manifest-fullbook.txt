@@ -27,7 +27,9 @@ manuscript/appendices/appendixA.md
 manuscript/appendices/appendixB.md
 manuscript/appendices/appendixC.md
 manuscript/appendices/appendixD.md
-manuscript/appendices/appendixE.md
+# former Appendix C (equipment maintenance) is folded into chapter 3;
+# C is now Uniform Reference, D is Pregame Briefing (old D and E shifted down).
+#manuscript/appendices/appendixE.md
 #manuscript/appendices/appendixF.md # this is style-guideline text
 #manuscript/appendices/appendixG.md # moved into chapter 5
 #manuscript/appendices/appendixH.md # moved into chapter 11

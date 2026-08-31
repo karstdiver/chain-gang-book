@@ -5,6 +5,9 @@ game cannot be played in any recognizable form. A well-prepared crew not only
 understands how to operate the equipment but also how to check, maintain, and 
 protect it.  
 
+The chain gang’s tools take a beating over the course of a season.
+Proper maintenance keeps the game flowing smoothly and avoids sideline chaos caused by broken or unreliable gear.
+
 There are three primary tools used by every high school chain gang: the down 
 box, the sticks, and the clip. Each has unique responsibilities and quirks 
 that must be respected.  
@@ -26,8 +29,8 @@ the line of scrimmage.
 
 **Modern Variations:**
 
-- Many schools use LED boxes for visibility. These must be charged postgame.
-- A manual backup is advisable in case of battery failure.
+- Many schools use LED boxes for visibility under normal lighting.
+- A mechanical box remains useful when sunlight washes out the LED.
 
 ### Manual vs. Electronic Boxes
 
@@ -42,16 +45,22 @@ The manual box, which uses levers to select the down number, is known for its re
 
 **Electronic LED Box**
 
-The LED version is heavier but offers better visibility under normal lighting conditions. However, this comes with operational concerns.
+The LED version is heavier but offers better visibility under normal lighting conditions. However, this comes with operational concerns including using an electronic device outside and in all weather conditions.
 
 **Pro Tip:** Every game now has the concern: "Is the box charged?" Especially since the crew doesn't have access to the charger after the game. We put the box in the coaches lobby (and catch air conditioning) and hope the box gets noticed and charged. It always has so far.
 <!-- end-protip -->
 
+**Maintenance:**
+
+- **Mechanical Models:** Check hinges, plates, and numbers for wear. Confirm the
+  indicator still cycles through downs 1–4 without sticking.
+- **LED Models:** Recharge batteries immediately post-game. Keep out of direct
+  sunlight or snow when not in use.
+- **Storage:** Avoid damp environments that corrode contacts or rot padding.
+
 ### SIDEBAR: From the Sideline — How We Got Our LED Box
 
 For many seasons, our high school team used a manual box. In fact, we still keep the manual box as a backup. However, we switched to an electronic LED sideline box because a wealthy alumnus had trouble reading the manual one. This donor generously purchased the LED box for us, enabling him and his family to clearly see the down marker.
-
-This is the story of how we acquired our electronic LED box.
 
 <!-- end-sidebar -->
 
@@ -68,15 +77,18 @@ and the line-to-gain for a first down.
 - Use clear communication signals (thumbs-up before pulling the chain taut).
 - Be ready to sprint onto the field for measurements when directed.
 
-**Care & Storage:**
-
-- After the game, wrap the chain securely around the base of the sticks.
-- Store in a safe location, away from kinks or tangles.
-
 **Visibility:**
 
 - Bright orange banners or padding should be secured and in good condition.
 - Faded or missing covers reduce visibility for players and officials.
+
+**Maintenance:**
+
+- **Chain:** Inspect for kinks, weak links, or bends. A chain repair kit
+  (slip rings, spring clips) should always be close at hand.
+- **Poles:** Check padding for tears and visibility. Replace faded or missing covers.
+- **Wrap:** After games, align poles and wrap chain neatly around the base of the sticks. Prevents tangles and prolongs life.
+- **Storage:** Store in a safe location, away from kinks or tangles.
 
 ---
 
@@ -104,6 +116,7 @@ accurate resets, quarter changes, and measurements.
   referee-issued ones.
 - Include a basic chain repair kit (slip rings, spring clips) as part of
   the clip operator's kit.
+- Ensure markings are clear and yard lines easy to identify.
 
 ---
 
@@ -175,7 +188,7 @@ This practice is more common in higher-level football, including college and pro
 
 ---
 
-## Inspection & Maintenance Protocol
+## Pre-Game Inspection
 
 Every crew should inspect the equipment before kickoff:  
 
@@ -209,10 +222,16 @@ This bag also hangs neatly on a hanger in the closet alongside your chain gang u
 **Pro Tip:** Think of your non-game day kit as a go bag or grab bag that contains everything you might need for the field.
 <!-- end-protip -->
 
-**Backup Strategy**
-
 **Pro Tip:** Consider buying backups of some items in your kit. I make sure to have multiple ChapSticks and also prefer to have two helmet liners in my grab bag. These items are crucial for performing well on the sideline, and it's important to have them readily available.
 <!-- end-protip -->
+
+**Crew-wide care:**
+
+- Label your gear — many schools use generic equipment, and mix-ups happen.
+- Keep a “rain kit” (plastic bags, ponchos) in the equipment box to protect
+  gear during storms.
+- Rotate equipment: if your school has multiple sets, cycle them to extend
+  lifespan.
 
 ### Personal Grooming Kit
 
@@ -233,3 +252,8 @@ in action in under two minutes. Since then, the crew’s motto has been: “Carr
 a chain repair kit — or be the reason halftime comes early.”  
 
 <!-- end-sidebar -->
+
+A crew’s reputation starts with the reliability of its equipment. Smooth
+operations, fast resets, and fewer interruptions come from a crew that takes
+maintenance seriously. Referees notice — and so do athletic directors. 
+

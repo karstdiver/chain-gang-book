@@ -1,67 +1,58 @@
-# Appendix D — Uniform Reference & Standards
+# Appendix D — Pregame Briefing Template
 
-Chain gang crews don’t need pads or whistles, but they are part of the 
-officiating environment. Uniform standards project professionalism, improve 
-safety, and make the crew easy to identify on the sideline.  
-
----
-
-## Headwear
-
-- **Preferred:** Matching hats in school colors or referee-style black caps.
-- **Why it matters:** Sun protection and immediate identification.
+The pregame briefing is where referees and the chain crew synchronize 
+expectations. A professional crew treats this as a structured checklist, not a 
+casual conversation.  
 
 ---
 
-## Shirts
+## Purpose
 
-- **Preferred:** Matching polos or T-shirts with school logo and “Chain Gang”
-  clearly displayed.
-- **Fabric:** Breathable, durable material is best for long games.
-
----
-
-## Bottoms
-
-- **Options:**
-  - Warm weather: khaki shorts.
-  - Cool weather: referee pants or dark-colored slacks.
-- **Key Point:** Comfort and flexibility for running, squatting, and
-  sideline agility.
+- Align responsibilities between the officiating crew and chain gang.
+- Clarify procedures for chain movement, resets, and measurements.
+- Emphasize safety and neutrality.
 
 ---
 
-## Footwear
+## Template Script
 
-- **Requirement:** Closed-toe athletic shoes, preferably black to match
-  officials.
-- **Avoid:** Sandals, cleats, or casual slip-ons.
-- **Why it matters:** Prevents injuries during collisions or long games.
+**Head Linesman (HL):**
+
+- Identifies sideline for the chain gang (based on coin toss).
+- Reviews chain movement signals and commands.
+- Confirms clip procedures (placement, resets, quarter changes).
+- Gives safety reminders: stay alert, drop equipment if players approach.
+
+**Chain Gang Response:**
+
+- Box Operator confirms down marker is functional.
+- Stick Crew confirms 10-yard chain measurement.
+- Clip Operator announces readiness and procedure (e.g., “Clip on inside edge
+  nearest ball, confirm with HL”).
 
 ---
 
-## Socks
+## Quick Tips for Crews
 
-- **No strict rules:** But black or neutral colors project neatness.
-
----
-
-## Weather Gear
-
-- **Rain:** Ponchos, frog togs, or lightweight waterproof jackets.
-- **Cold:** Layered clothing that allows freedom of movement.
-- **Modern Additions:** Heated vests, socks, and gloves powered by USB packs.
+- Use clear, simple verbal confirmations (“Second on the box,” “Clip on 45”).
+- Establish eye contact with the HL — they are your supervisor.
+- Avoid side conversations; referees appreciate full attention.
 
 ---
 
 ## Professional Standard
 
-Consistency in appearance signals professionalism. Athletic directors notice 
-crews that dress alike, referees respect the effort, and players see the crew 
-as part of the officiating team — not just fans with field access.  
+Crews that run the pregame briefing like clockwork earn instant credibility. 
+Referees know they won’t have to babysit, and athletic directors see a crew 
+that takes its responsibilities seriously.  
 
 ---
 
-### See Also
+### SIDEBAR: From the Sideline — The Reputation Joke
 
-For footwear anecdotes, see **Chapter 1 sidebar** on the flip-flop incident.  
+Early in one season, a linesman jogged over to the crew before the briefing. 
+He looked them over and said, “You guys have a reputation as the second-best 
+chain gang in the state.” After a pause to let them celebrate, he added, “And 
+that’s only because everyone else is tied for first.” The crew laughed — and 
+the joke became their unofficial motto.  
+<!-- end-sidebar -->

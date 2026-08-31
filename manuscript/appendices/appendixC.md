@@ -1,55 +1,67 @@
-# Appendix C — Equipment Maintenance Guide
+# Appendix C — Uniform Reference & Standards
 
-The chain gang’s tools are simple, but they take a beating over the course of 
-a season. Proper maintenance keeps the game flowing smoothly and avoids 
-sideline chaos caused by broken or unreliable gear.  
-
----
-
-## Down Box
-
-- **Mechanical Models:** Flip through downs 1–4 before each game. Check hinges,
-  plates, and numbers for wear.
-- **LED Models:** Recharge batteries immediately post-game. Keep a manual
-  backup available in case of failure. Keep out of direct sunlight or snow when not in use.
-- **Storage:** Avoid damp environments that corrode contacts or rot padding.
+Chain gang crews don’t need pads or whistles, but they are part of the 
+officiating environment. Uniform standards project professionalism, improve 
+safety, and make the crew easy to identify on the sideline.  
 
 ---
 
-## Sticks & Chain
+## Headwear
 
-- **Chain:** Inspect for kinks, weak links, or bends. A chain repair kit
-  (slip rings, spring clips) should always be close at hand.
-- **Poles:** Check padding for tears and visibility. Replace faded or missing
-  covers — visibility is safety.
-- **Wrap & Store:** After games, align poles and wrap chain neatly around the
-  base. Prevents tangles and prolongs life.
+- **Preferred:** Matching hats in school colors or referee-style black caps.
+- **Why it matters:** Sun protection and immediate identification.
 
 ---
 
-## Clips
+## Shirts
 
-- **Durability:** Referee-issued clips are often flimsy. Homemade or custom
-  versions may last longer.
-- **Quantity:** Carry at least two. Veteran crews prefer three for redundancy.
-- **Visibility:** Ensure markings are clear and yard lines easy to identify.
+- **Preferred:** Matching polos or T-shirts with school logo and “Chain Gang”
+  clearly displayed.
+- **Fabric:** Breathable, durable material is best for long games.
 
 ---
 
-## Pro Tips
+## Bottoms
 
-- Label your gear — many schools use generic equipment, and mix-ups happen.
-- Keep a “rain kit” (plastic bags, ponchos) in the equipment box to protect
-  gear during storms.
-- Rotate equipment: if your school has multiple sets, cycle them to extend
-  lifespan.
-  <!-- end-protip -->
+- **Options:**
+  - Warm weather: khaki shorts.
+  - Cool weather: referee pants or dark-colored slacks.
+- **Key Point:** Comfort and flexibility for running, squatting, and
+  sideline agility.
 
+---
+
+## Footwear
+
+- **Requirement:** Closed-toe athletic shoes, preferably black to match
+  officials.
+- **Avoid:** Sandals, cleats, or casual slip-ons.
+- **Why it matters:** Prevents injuries during collisions or long games.
+
+---
+
+## Socks
+
+- **No strict rules:** But black or neutral colors project neatness.
+
+---
+
+## Weather Gear
+
+- **Rain:** Ponchos, frog togs, or lightweight waterproof jackets.
+- **Cold:** Layered clothing that allows freedom of movement.
+- **Modern Additions:** Heated vests, socks, and gloves powered by USB packs.
 
 ---
 
 ## Professional Standard
 
-A crew’s reputation starts with the reliability of its equipment. Smooth 
-operations, fast resets, and fewer interruptions come from a crew that takes 
-maintenance seriously. Referees notice — and so do athletic directors.  
+Consistency in appearance signals professionalism. Athletic directors notice 
+crews that dress alike, referees respect the effort, and players see the crew 
+as part of the officiating team — not just fans with field access.  
+
+---
+
+### See Also
+
+For footwear anecdotes, see **Chapter 1 sidebar** on the flip-flop incident.  

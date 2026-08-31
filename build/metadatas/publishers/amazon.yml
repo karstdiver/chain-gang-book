@@ -1,19 +1,71 @@
 ---
-# Pandoc-visible overrides for this channel
+# Pandoc-visible overrides for this channel.
+# `description` is paste-ready for the KDP book-description field (limit 4,000
+# characters). Pandoc also writes it to EPUB dc:description when you build with
+# PUBLISHER=amazon. Do not put this copy on the title page.
+# Tone: shorter, store-facing draft (replace if you prefer the longer handbook voice).
 description: |
-  Short KDP-oriented blurb (keep under store limits).
-keywords:
-  - chain gang
-  - Friday night football
-  - sideline volunteer
+  The chain crew does not show up on the stat sheet. Miss a first down, and
+  everyone notices.
 
-# Cover when you add store-specific EPUB art (Makefile EPUB_COVER_IMAGE still wins unless you change the Makefile)
+  Friday Night Chains is the field handbook for high school football chain
+  crews—the box, the sticks, the clip, and the people who run them. For
+  athletic directors building a crew, officials who need that crew locked in,
+  and the parent who just got handed a down marker.
+
+  Get the roles right. Pack the kit. Run pregame. Stay safe in bad weather.
+  Work for the officials, not the home team.
+
+  Practical. Professional. Built for Friday night.
+# Seven phrases → KDP “keywords” boxes (one per field, max 50 characters).
+# Index new words; Amazon does not rank a repeated stem higher. Title/subtitle
+# already cover Friday Night Chains, high school, football, chain, crews.
+# Avoid claims (“best”), ASINs, and competitor names.
+keywords:
+  - chain gang football volunteer
+  - down marker operator
+  - first down sticks and clip
+  - sideline volunteer training
+  - football officiating volunteers
+  - athletic director game day
+  - line of scrimmage markers
+
+# Cover: KDP uses the cover inside the EPUB (Makefile EPUB_COVER_IMAGE).
+# Do not upload a separate Amazon-only cover unless you change that file.
 # cover-image: assets/covers/chain-gang-amazon.jpg
 
-# Sidecar — KDP web UI still needs these; YAML is your checklist
+# Sidecar — pick these in the KDP category picker (Kindle store tree, not old BISAC).
+# KDP allows up to three per format; these two are the intended shelves. Confirm
+# the labels in the dashboard when you publish — Amazon can rename the tree.
+# Parent “Sports & Outdoors” is implied by the Football (American) child.
 publisher: amazon
 kdp-categories:
-  - "Sports & Recreation / Football"
-  - "Education / Teaching"
-upload-notes: "Upload exports/epub/chain-gang-book-amazon.epub if using publisher suffix"
+  - "Kindle eBooks > Sports & Outdoors > Football (American)"
+  - "Kindle eBooks > Sports & Outdoors > Coaching > Football (American)"
+# Optional third if you use the extra slot:
+# - "Kindle eBooks > Education & Teaching > Schools & Teaching"
+# Do not pick Coaching if Amazon’s picker warns of a mismatch; Football (American)
+# is the honest primary. Coaching is the nearest browse neighbor (sideline
+# operations, not a playbook).
+
+# --- KDP Bookshelf checklist (paste/click in the UI; not used by Pandoc) ---
+# Title: Friday Night Chains
+# Subtitle: A Practical Guide for High School Football Chain Crews
+# Author (as on book): Richard Kallay
+# Series / edition: none / first Kindle edition
+# Language: English (United States)  — matches common.yml lang: en-US
+# Publishing date: 2026-05-26  — or use KDP’s “today” if you prefer the go-live date
+# ISBN: none (Kindle gets an ASIN; do not invent one)
+# Public domain: no
+# Adult content: no
+# Primary marketplace: Amazon.com
+# Territories: worldwide (unless you later restrict)
+# KDP Select / price / DRM: decide in the UI, not in this file
+# Upload file: exports/epub/chain-gang-book.epub
+#   Build: make epub PUBLISHER=amazon
+#   (Default make epub uses publishers/common.yml and the short OPF blurb in
+#   common.yml. PUBLISHER=amazon bakes this store description into the EPUB.
+#   Filename is always chain-gang-book.epub; the Makefile does not add -amazon.)
+# Cover in file: assets/covers/epub-cover-image.jpg
+upload-notes: "Upload exports/epub/chain-gang-book.epub from: make epub PUBLISHER=amazon"
 ---

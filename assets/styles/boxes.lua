@@ -1,5 +1,5 @@
 -- Pandoc Lua filter for chain-gang-book
--- Substitutes {{author}} and {{author-initials}} from metadata (common.yml).
+-- Substitutes {{author}}, {{author-initials}}, and {{edition}} from metadata (common.yml).
 -- Callouts/boxes can be added here later.
 
 local stringify = pandoc.utils.stringify
@@ -25,6 +25,7 @@ function Pandoc(doc)
   local replacements = {
     { pattern = "{{author%-initials}}", value = meta_text(doc.meta, "author-initials") },
     { pattern = "{{author}}", value = meta_text(doc.meta, "author") },
+    { pattern = "{{edition}}", value = meta_text(doc.meta, "edition") },
   }
 
   return doc:walk({

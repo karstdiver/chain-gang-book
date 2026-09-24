@@ -52,10 +52,14 @@ kdp-categories:
 # Title: Friday Night Chains
 # Subtitle: A Practical Guide for High School Football Chain Crews
 # Author (as on book): Richard Kallay
-# Series / edition: none / First Kindle edition, August 2026 (title page; bump common.yml edition)
+# Series / edition: none / Kindle line in common.yml; paperback line below
+paperback-edition: First paperback edition, September 2026
 # Language: English (United States)  — matches common.yml lang: en-US
 # Publishing date: 2026-05-26  — or use KDP’s “today” if you prefer the go-live date
-# ISBN: none (Kindle gets an ASIN; do not invent one)
+# Kindle listing: no ISBN (ASIN only). Paperback ISBN is print-interior only
+# (title page via {{print-isbn-block}} when make paperback sets show-print-isbn).
+paperback-isbn: "9798176785401"
+paperback-imprint: Independently published
 # Public domain: no
 # Adult content: no
 # Primary marketplace: Amazon.com

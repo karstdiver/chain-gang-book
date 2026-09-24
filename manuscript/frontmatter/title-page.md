@@ -31,6 +31,8 @@ All rights reserved.
 
 {{edition}}
 
+{{print-isbn-block}}
+
 ```{=latex}
 \vspace{1.4cm}
 ```

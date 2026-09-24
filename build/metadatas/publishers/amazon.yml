@@ -67,5 +67,7 @@ kdp-categories:
 #   common.yml. PUBLISHER=amazon bakes this store description into the EPUB.
 #   Filename is always chain-gang-book.epub; the Makefile does not add -amazon.)
 # Cover in file: assets/covers/epub-cover-image.jpg
+# Paperback interior (no wrap): exports/pdf/chain-gang-book-paperback.pdf
+#   Build: make paperback PUBLISHER=amazon
 upload-notes: "Upload exports/epub/chain-gang-book.epub from: make epub PUBLISHER=amazon"
 ---

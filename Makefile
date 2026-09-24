@@ -73,6 +73,7 @@ MD=$(STITCHED_FILE)
 ASSET_DIR := assets
 STYLE_DIR := styles
 TEMPLATE  = $(ASSET_DIR)/$(STYLE_DIR)/book.tex.tpl
+PAPERBACK_TEMPLATE = $(ASSET_DIR)/$(STYLE_DIR)/book-paperback.tex.tpl
 LUAFILTER = $(ASSET_DIR)/$(STYLE_DIR)/boxes.lua
 REFDOCX   = $(ASSET_DIR)/$(STYLE_DIR)/reference.docx
 
@@ -102,6 +103,7 @@ help:
 	@echo "make pdf PROFILE=fullbook PUBLISHER=common"
 	@echo " build with: common.yml → profiles/fullbook.yml → publishers/amazon.yml"
 	@echo "$ make epub PROFILE=fullbook PUBLISHER=amazon"
+	@echo "$ make paperback PUBLISHER=amazon"
 	@echo ""
 	@echo "Targets:"
 	@echo "  help        - Show this help message"
@@ -114,7 +116,8 @@ help:
 	@echo "  fullbookmd  - Stitch together into book.md"
 	@echo "  validate    - Broken-book checks (manifest/assets; not style lint)"
 	@echo "  draft       - Quick PDF (default cover, template, no lua filter)"
-	@echo "  pdf         - Build print-ready PDF (styled, pdf cover)"
+	@echo "  pdf         - Build styled PDF (letter-ish, pdf cover on page 1)"
+	@echo "  paperback   - Build KDP paperback interior PDF (6x9, no wrap cover)"
 	@echo "  showpdf     - Build PDF and open in default viewer"
 	@echo "  epub        - Build EPUB for Apple Books / Kindle"
 	@echo "  docx        - Build Word/Pages version"
@@ -132,6 +135,7 @@ help:
 	@echo "  covers: draft=$(DEFAULT_COVER_IMAGE)"
 	@echo "          pdf=$(PDF_COVER_IMAGE)"
 	@echo "          epub=$(EPUB_COVER_IMAGE)"
+	@echo "  paperback interior has no wrap/cover slot (title page is first)"
 	@echo "  docx has no EPUB/PDF-style cover page"
 
 # Human-readable git status (script only reports; does not change the repo).
@@ -164,6 +168,7 @@ workflow howto edit:
 	@echo "  5. Build and review"
 	@echo "       make pdf"
 	@echo "       make epub"
+	@echo "       make paperback PUBLISHER=amazon"
 	@echo "       # open exports and check the result"
 	@echo ""
 	@echo "  6. Commit"
@@ -219,6 +224,26 @@ pdf: fullbookmd
 	@echo "✅ Wrote $(EXPORT_DIR)/pdf/$(TITLE).pdf"
 	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE).pdf" || true
 
+# KDP paperback interior only (6x9, no bleed, no wrap cover on page 1).
+# Intended: make paperback PUBLISHER=amazon
+paperback: fullbookmd
+	@test -f "$(PAPERBACK_TEMPLATE)" || { echo "❌ Missing template: $(PAPERBACK_TEMPLATE)"; exit 1; }
+	@mkdir -p "$(EXPORT_DIR)/pdf"
+	@if [ "$(PUBLISHER)" = "common" ]; then \
+	  echo "⚠️  Use PUBLISHER=amazon for the KDP paperback interior (continuing with PUBLISHER=$(PUBLISHER))."; \
+	fi
+	@echo "📖 Building paperback interior → $(EXPORT_DIR)/pdf/$(TITLE)-paperback.pdf"
+	@echo "   template: $(PAPERBACK_TEMPLATE)"
+	@echo "   publisher: $(PUBLISHER)"
+	pandoc $(MD) -o $(EXPORT_DIR)/pdf/$(TITLE)-paperback.pdf \
+	  $(METADATA_FLAGS) \
+	  --from markdown+implicit_figures \
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --template=$(PAPERBACK_TEMPLATE) \
+	  --lua-filter=$(LUAFILTER)
+	@echo "✅ Wrote $(EXPORT_DIR)/pdf/$(TITLE)-paperback.pdf"
+	@ls -lh "$(EXPORT_DIR)/pdf/$(TITLE)-paperback.pdf" || true
+
 epub: fullbookmd
 	@test -f "$(EPUB_COVER_IMAGE)" || { echo "❌ Missing cover: $(EPUB_COVER_IMAGE)"; exit 1; }
 	@echo "📚 Building EPUB → $(EXPORT_DIR)/epub/$(TITLE).epub"
@@ -271,7 +296,7 @@ clean:
 #   make show-manifest               # prints which manifest will be used
 
 
-.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-covers show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf epub docx draft
+.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-covers show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf paperback epub docx draft
 
 
 show: show-title show-covers show-profile show-manifest check-manifest show-metadata check-metadata

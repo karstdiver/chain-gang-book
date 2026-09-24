@@ -237,6 +237,7 @@ paperback: fullbookmd
 	@echo "   publisher: $(PUBLISHER)"
 	pandoc $(MD) -o $(EXPORT_DIR)/pdf/$(TITLE)-paperback.pdf \
 	  $(METADATA_FLAGS) \
+	  --metadata show-print-isbn=true \
 	  --from markdown+implicit_figures \
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --template=$(PAPERBACK_TEMPLATE) \

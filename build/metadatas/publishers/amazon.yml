@@ -17,6 +17,26 @@ description: |
   Work for the officials, not the home team.
 
   Practical. Professional. Built for Friday night.
+
+# Paste into KDP Cover Creator (wrap). Not on the title page. Not substituted
+# into the interior PDF. make epub/paperback may copy these into package metadata.
+back-cover: |
+  The chain crew does not show up on the stat sheet. Miss a first down, and
+  everyone notices.
+
+  Friday Night Chains is the field handbook for high school football chain
+  crews—the box, the sticks, the clip, and the people who run them. For
+  athletic directors, officials, and the parent who just got handed a down
+  marker.
+
+  Get the roles right. Pack the kit. Run pregame. Stay safe in bad weather.
+  Work for the officials, not the home team.
+
+  Practical. Professional. Built for Friday night.
+author-bio: |
+  Richard Kallay has worked high school football chain crews for nearly a
+  decade. Friday Night Chains is his practical handbook for the volunteers
+  who mark the line of scrimmage, the down, and ten yards to go.
 # Seven phrases → KDP “keywords” boxes (one per field, max 50 characters).
 # Index new words; Amazon does not rank a repeated stem higher. Title/subtitle
 # already cover Friday Night Chains, high school, football, chain, crews.

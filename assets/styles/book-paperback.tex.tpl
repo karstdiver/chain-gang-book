@@ -19,6 +19,12 @@
 \usepackage{parskip}
 
 \usepackage{graphicx}
+% Do not print figures larger than the text block (KDP no-bleed).
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage[hidelinks]{hyperref}

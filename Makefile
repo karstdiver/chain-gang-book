@@ -109,6 +109,7 @@ help:
 	@echo "  help        - Show this help message"
 	@echo "  repo-status - Explain git branch/sync/auth (safe to edit?)"
 	@echo "  status      - Same as repo-status"
+	@echo "  tags        - List git version tags (newest first, with messages)"
 	@echo "  workflow    - Print edit/build/PR memory jogger (aliases: howto, edit)"
 	@echo "  howto       - Same as workflow"
 	@echo "  edit        - Same as workflow"
@@ -142,6 +143,10 @@ help:
 repo-status status:
 	@test -x "$(REPO_STATUS_SCRIPT)" || chmod +x "$(REPO_STATUS_SCRIPT)"
 	@"$(REPO_STATUS_SCRIPT)"
+
+# List annotated/lightweight git tags (does not create or push tags).
+tags:
+	@git tag -n --sort=-creatordate
 
 # Print-only checklist for returning to edit this book (does not run any of these steps).
 workflow howto edit:
@@ -297,7 +302,7 @@ clean:
 #   make show-manifest               # prints which manifest will be used
 
 
-.PHONY: help repo-status status workflow howto edit clean showpdf fullbookmd show show-title show-covers show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf paperback epub docx draft
+.PHONY: help repo-status status tags workflow howto edit clean showpdf fullbookmd show show-title show-covers show-profile show-manifest show-metadata check check-manifest check-metadata validate all pdf paperback epub docx draft
 
 
 show: show-title show-covers show-profile show-manifest check-manifest show-metadata check-metadata
